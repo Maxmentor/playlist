@@ -15,8 +15,8 @@ Playlist Update  ( 05/05/2022)
 
 All In One Playlist
 
-URL-  http://techmaxpro.ga/Playlist-Max/Playlist-techmaxpro.m3u8
+URL-  commingsoon
 
 ----------------------------------------
-Join&Share @techmaxpro
+Join&Share @maxmentor
 ----------------------------------------
