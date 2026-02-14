@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-name="Star Sports 1 HD" tvg-logo="https://i.postimg.cc/j2cn1VBx/IMG-20260215-024716.jpg" group-title="sports",Star Sports 1 Hindi HD
+#EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-name="Star Sports 1 HD" tvg-logo="https://i.postimg.cc/j2cn1VBx/IMG-20260215-024716.jpg" group-title="sports",Star Sports 1 HD
 http://edge.zerobuff.com/c444a5102cec0758c67a3133a50c434ffeebd61d5b96fbe2aab810dbe7a6a2be3316a9adc0c163a660c9e9e64bdc4224f2f0379f5a744811fb2bf0ee289d14a89697940093791a42261190b046b97cb3e3faa5de150e/index.m3u8
 
 #EXTINF:-1 tvg-id="Star Sports 1 Hindi HD" tvg-name="Star Sports 1 Hindi FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/SS1_Hindi_HD.JPG/revision/latest?cb=20240313194838" group-title="sports",Star Sports 1 Hindi FHD
@@ -15,7 +15,7 @@ http://edge.zerobuff.com/c444a5102cec0758c67a3f31a80c434ffeebd61d5b96fbe2aa9830f
 #EXTINF:-1 tvg-id="Star Sports 2 Tamil HD" tvg-name="Star Sports 2 Tamil HD" tvg-logo="https://i.postimg.cc/T20cSBrZ/Screenshot-2026-02-15-02-59-02-17-40deb401b9ffe8e1df2f1cc5ba480b12.jpg" group-title="sports",Star Sports 2 Tamil HD
 http://185.6.12.59/c444a5102cec0758c67a3f35a50c434ffeebd61d5b96fbe2aa9830fbeb859d831531a5baf0b352de1ca5f59f3e905d20f9f0349d5d26194fb02df3ee309043afcf92c350c77b19177345c0e44ded7bb0e0a4f3d9140169e48f73d97d5a/index.m3u8
 
-#EXTINF:-1 tvg-id="Star Sports 1 FHD" tvg-name="Star Sports 1 FHD" tvg-logo="https://i.postimg.cc/j2cn1VBx/IMG-20260215-024716.jpg" group-title="sports",Star Sports 1 HD
+#EXTINF:-1 tvg-id="Star Sports 1 FHD" tvg-name="Star Sports 1 FHD" tvg-logo="https://i.postimg.cc/j2cn1VBx/IMG-20260215-024716.jpg" group-title="sports",Star Sports 1 FHD
 http://edge.zerobuff.com/c444a5102cec0758c67a3137a90c434ffeebd61d5b96fbe2aa9830fbe78692fd0f218ad494c131a661cae9e342c25e23fda263cd5e6c1e16fa7af1e9289841feca939054c72a48162517c3b744e97eb5e6f8/index.m3u8
 
 #EXTINF:-1 tvg-id="Willow HD" tvg-name="Willow HD" tvg-logo="https://i.postimg.cc/mrPq2BSd/images.png" group-title="sports",Willow HD
