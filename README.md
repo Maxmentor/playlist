@@ -1,4 +1,4 @@
-# Indian-m3u-05-05-2022
+# Indian Playelist 2025
 
 Playlist Update  ( 05/05/2022)
 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥
@@ -16,6 +16,9 @@ Playlist Update  ( 05/05/2022)
 All In One Playlist
 
 URL-  commingsoon
+
+We No Host Any Channel.....
+May Be Not Working....
 
 ----------------------------------------
 Join&Share @maxmentor
