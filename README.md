@@ -1,21 +1,11 @@
-# Indian Playelist 2025
+# Indian Playelist 2026
 
-Playlist Update  ( 05/05/2022)
+Playlist Update  ( 15/02/2026)
 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥
-
-💥Jiotv - 2 Servers
-💥Zee5 - 2 Servers
-💥Kids
-💥Sony Live
-💥DD-Network
-💥Online Radio
-💥Free Dish
-💥SunNxt (From @techiesneh)
-💥MX-Player
 
 All In One Playlist
 
-URL-  commingsoon
+URL- 
 
 We Not host Any Channel.....<br>
 May Be Not Working....
