@@ -1,3 +1,66 @@
 c579353ba50c434
 
 aHR0cDovL3R2LnR2em9uLnR2L3N0YWxrZXJfcG9ydGFsL2MKCjAwOjFBOjc5OjAwOjM2OkE2
+
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-id="Colors HD" tvg-name="Colors HD" tvg-logo="https://pbs.twimg.com/profile_images/694154934900535296/kW5bBzcE_400x400.jpg" group-title="entertainment",Colors HD
+http://edge.zerobuff.top/c444a5102cec0758c5783e32a00c434ffeebd61d5b96fbe2bd8e3ef1eb999f8b775ca9a6ebbe50c503a58e993ea52d22b6ef359f43391c47b02bf8f77e9a15e19f95c255cc2a4914254495b317eb7ab6e3abadd81c0268ed8f73887e5f4d8e11/index.m3u8
+#EXTINF:-1 tvg-id="Sony TV HD" tvg-name="Sony TV HD" tvg-logo="https://images.slivcdn.com/videoasset_images/sethd_10may_masthead_logo_rev.png?w=400&q=high&fr=webp" group-title="entertainment",Sony TV HD
+http://edge.zerobuff.top/c444a5102cec0758c5783e32a00c434ffeebd61d5b96fbe2bd8e3ef1eb999f8b775ca9b6ebbc46c306b2839e34a84158a3b0799d5d3b0346af2feeed748710ae998dc604c32f1d40724290e543bc79b5e3f8a5db49533ab58a76db2d5d47d9114c0b/index.m3u8
+#EXTINF:-1 tvg-id="Sab TV HD" tvg-name="Sab TV HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="entertainment",Sab TV HD
+http://edge.zerobuff.top/c444a5102cec0758c5783e32a00c434ffeebd61d5b96fbe2bd8e3ef1eb999f8b775ca9b6ebbc46c411b8868433ad4158a3b0799d5d3b0346af2feeed748710ae998d9401917e1511254597e747bf28e0e3a4a2894b053cb28971df7d5846d946415b/index.m3u8
+#EXTINF:-1 tvg-id="Sony Pal" tvg-name="Sony Pal" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDD8qdYedhm3G0_ECPU3KNEIfzyVoIzqMMYQ&s" group-title="entertainment",Sony Pal
+http://edge.zerobuff.com/c444a5102cec0758c5783e32a00c434ffeebd61d5b96fbe2b69e36998d89bea3291ca995c59e40ff3994bbe64adf4221fbee2b9855261f44a963f1ec7c9a40fe9ec29701c42a48437113c2b147b170bae6a4a0d94f006ce28c75/index.m3u8
+#EXTINF:-1 tvg-id="Star Bharat HD" tvg-name="Star Bharat HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc83_i5OFh-w_MSbz_YtsWUb2xAQN6YU_cVg&s" group-title="entertainment",Star Bharat HD
+http://edge.zerobuff.top/c444a5102cec0758c5783e32a00c434ffeebd61d5b96fbe2bd8e3ef1eb999f8b775ca9b6f0b34dc812b286853bb83359849a4ced5f741c47ad31f1e87c8716a580c3c101897a4e127411cae613ea7bb4e7aaf78f190139e6d9278c2e5311db46475cb8d4de/index.m3u8
+#EXTINF:-1 tvg-id="Star Plus HD" tvg-name="Star Plus HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f3/StarPlus_HD_2011.png/revision/latest/scale-to-width-down/250?cb=20240318193605" group-title="entertainment",Star Plus HD
+http://edge.zerobuff.top/c444a5102cec0758c5783e32a00c434ffeebd61d5b96fbe2bd8e3ef1eb999f8b775ca9b6f0b34dc819b4839e3bde1021faed2b9d5c380343a631f2ea7bd517a5cf939304972c49122243cbe416bf7fb3eefaf4dc490f3eb2db258a2a0f10/index.m3u8
+#EXTINF:-1 tvg-id="Zee TV HD" tvg-name="Zee TV HD" tvg-logo="https://yt3.googleusercontent.com/yawyROd5jQqRiXHdmttib1ZhZTZ_flA4ACjPpNNdrVFC_J8NWmrlI-Se97YMaCJSvId4s7eV=s900-c-k-c0x00ffffff-no-rj" group-title="entertainment",Zee TV HD
+http://edge.zerobuff.com/c444a5102cec0758c5783e32a00c434ffeebd61d5b96fbe2b69e36998d899789023abfabe0bb5ea52ccbf7e454dd5d20e4ea3d825f3b1a0ba72ff1bd2f9c1bf999c1cb03c37e1f1f2514c7b610b07ee4b2faf3df1e0538ec/index.m3u8
+#EXTINF:-1 tvg-id="&TV HD" tvg-name="&TV HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1755,h_987,c_scale,f_webp,q_auto:eco/resources/0-9-channel_1510237423/list_clean/1920x1080list87f2ec0b102a496e87df1a924e009813.png" group-title="entertainment",&TV HD
+http://edge.zerobuff.com/c444a5102cec0758c5783e32a00c434ffeebd61d5b96fbe2b69e36998d89eb98112db2aceab632df3994bbe64adf4221fbee2b9855261f44a963f8e82ecf16fe9c94960e912f1f43711091e24cb02ce1b4fff68d480333e08e20/index.m3u8
+#EXTINF:-1 tvg-id="Zee Cinema HD" tvg-name="Zee Cinema HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="movies",Zee Cinema HD
+http://edge.zerobuff.com/c444a5102cec0758c5783e32a00c434ffeebd61d5b96fbe2b69e36998d8997a922269f8bc19f7edf14d78fbe14905d20f9f0349d5d26194fb02df3ee309144a5ccc1c350967c15152117c6e011b12ab6b4a4ad884c006be485728b795c/index.m3u8
+#EXTINF:-1 tvg-id="Star Gold HD" tvg-name="Star Gold HD" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_muYk3H6cceCnfb1MkJ0MP0ZFyLlIElpCXstEyfm-svPO0=s900-c-k-c0x00ffffff-no-rj" group-title="movies",Star Gold HD
+http://edge.zerobuff.top/c444a5102cec0758c5783e32a00c434ffeebd61d5b96fbe2bd8e3ef1eb999f8b775ca9b6d0936dd03f96a39f3ec12479a4a2349c5e261c46ae31f4e1629b11aad293c554cc794f447710c1e645eb2cb7b4a5f084150e3bb68a26d77e5813dd4747/index.m3u8
+#EXTINF:-1 tvg-id="Star Gold 2 HD" tvg-name="Star Gold 2 HD" tvg-logo="https://storage.googleapis.com/impact-news-photo/news-photo/6752.SG-upload.jpg" group-title="movies",Star Gold 2 HD
+http://edge.zerobuff.top/c444a5102cec0758c5783e32a00c434ffeebd61d5b96fbe2bd8e3ef1eb999f8b775ca9b6f0b34dc817b58b9325de33588ea2349c5e261c46ae31f4e1629b11aad2939007cd7e4f177342c7b344be70e0b2a5a684180568e28876da2e52408d1641/index.m3u8
+#EXTINF:-1 tvg-id="Sony Max" tvg-name="Sony Max" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLQIL4p5NMz4jjoU_I6mzmg2gMTcaGJ04hpw&s" group-title="movies",Sony Max
+http://edge.zerobuff.top/c444a5102cec0758c5783e32a00c434ffeebd61d5b96fbe2bd8e3ef1eb8582821e28b7bd8ba74cd67fb28e9906dd5c23e4ef349c433c1559ac2cf7a579cd44fecc94c253917e1a1e2046cbe240be70e7eefeaddf4c0632e3d875d679/index.m3u8
+#EXTINF:-1 tvg-id="Sony Max 2" tvg-name="Sony Max 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Sony_MAX_2_Logo_%282022%29.png" group-title="movies",Sony Max 2
+http://edge.zerobuff.top/c444a5102cec0758c5783e32a00c434ffeebd61d5b96fbe2bd8e3ef1eb999f8b775ca9b6ebbc46da11a2f5fa3285026cfbee36825c391d59aa27eeeb7f9e5ef99e90c701937e1f44201297e511b97bbbe7fda7d94f056ee5d828dc2d5b46dd/index.m3u8
+#EXTINF:-1 tvg-id="Gold Mines" tvg-name="Gold Mines" tvg-logo="https://yt3.googleusercontent.com/d66J-MMZ06-55gkF5maclPGB5f5j1L0SAs3iWnl3lhoswlWrJ67wD2a3mZGkgHgt-W3kMrIT=s900-c-k-c0x00ffffff-no-rj" group-title="movies",Gold Mines
+http://edge.zerobuff.com/c444a5102cec0758c5783e32a00c434ffeebd61d5b96fbe2b69e36998d898a830b21bbaceab74ceb61caf4f94bdd5c3efee62b9e5e3f514fad2fa5e12d9d13fe99c49102907c4e432017c7ec10bd2fe1b4faf4d914063e/index.m3u8
+#EXTINF:-1 tvg-id="Utsav Movie Gold HD" tvg-name="Utsav Movie Gold HD" tvg-logo="https://www.bizasialive.com/wp-content/uploads/2021/01/Utsav-Gold.jpg" group-title="movies",Utsav Movie Gold HD
+http://edge.zerobuff.com/c444a5102cec0758c5783e32a00c434ffeebd61d5b96fbe2b69e36998d8998981424a0bae3bd53d30faf8cab4bdc5f3efbef358259300345ad28bcec7a9144accfc6900fc1271d14764195b64cbc7bb2b4f8f68d15006bb6d8248d/index.m3u8
+#EXTINF:-1 tvg-id="Cartoon Network HD" tvg-name="Cartoon Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Cartoon-Network-HD-cover.jpg" group-title="kids",Cartoon Network HD
+http://edge.zerobuff.com/c444a5102cec0758c5783e32a00c434ffeebd61d5b96fbe2b69e36998c898e8d1531b9aaeabc5ac307b5959c25af2d6cfbee36825c391d59aa27eeeb7f9e5eac97939353c427491f7343c1b741e970b5e6adf6894c0e33b18b74da7c0846d4/index.m3u8
+#EXTINF:-1 tvg-id="Disney HD" tvg-name="Disney HD" tvg-logo="https://i.pinimg.com/736x/78/fc/d7/78fcd79f54552b1e0d046e37315ded03.jpg" group-title="kids",Disney HD
+http://edge.zerobuff.com/c444a5102cec0758c5783e32a00c434ffeebd61d5b96fbe2b69e36998c8989a5340b939cfbba5bc813bb98bc13881f6cfbee36825c391d59aa27eeeb7f9e5eac9890c303cc7b1d427a1391e743ed2fb0e7afa1db1d073de38d208c790e45dd/index.m3u8
+#EXTINF:-1 tvg-id="Dixney XD HD" tvg-name="Dixney XD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/2015_Disney_XD_HD_logo.svg" group-title="kids",Dixney XD HD
+http://edge.zerobuff.com/c444a5102cec0758c5783e32a00c434ffeebd61d5b96fbe2b69e36998c8989a5340b939cfbaa5bc818be98bc13881f6cfbee36825c391d59aa27eeeb7f9e5eab9fc1cb0490271e1f7318c4b643b178b5e3f8a48b4e573fe28a76db2d5f418f/index.m3u8
+#EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-name="Star Sports 1 HD" tvg-logo="https://i.postimg.cc/j2cn1VBx/IMG-20260215-024716.jpg" group-title="sports",Star Sports 1 HD
+http://edge.zerobuff.com/c444a5102cec0758c5783e32a00c434ffeebd61d5b96fbe2aab810dbe7a6a2be3316a9adc0c163a660c9e9e64bdc4224f2f0379f5a744811fb2bf0ee289d14a89697940093791a42261190b046b97cb3e3faa5de150e/index.m3u8
+#EXTINF:-1 tvg-id="Star Sports 1 Hindi HD" tvg-name="Star Sports 1 Hindi FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/SS1_Hindi_HD.JPG/revision/latest?cb=20240313194838" group-title="sports",Star Sports 1 Hindi FHD
+http://edge.zerobuff.com/c444a5102cec0758c5783e32a00c434ffeebd61d5b96fbe2aab810dbe7a6a2be3316a9adc0c363a660c9e9e64bdc4224f2f0379f5a741c42fa79a5e82ec81bab9ac6c654c27c191f774697e547b12fe3e7f8f48c1a55/index.m3u8
+#EXTINF:-1 tvg-id="Star Sports 2 Hindi HD" tvg-name="Star Sports 2 Hindi HD" tvg-logo="https://i.postimg.cc/Z5pvkyGN/Screenshot-2026-02-15-03-11-48-68-40deb401b9ffe8e1df2f1cc5ba480b12.jpg" group-title="sports",Star Sports 2 Hindi HD
+http://185.6.12.59/c444a5102cec0758c5783e32a00ffeebd61d5b96fbe2aa9830fbeb859d831531a5baecbb51d319a5f59f3e905d20f9f0349d5d26194fb02df3ee30ca1af8cf979053cc7c181e7016c4b144ec2bb6e2aea2d8150f3fe38421882d53/index.m3u8
+#EXTINF:-1 tvg-id="Star Sports 1 Tamil HD" tvg-name="Star Sports 1 Tamil HD" tvg-logo="https://i.postimg.cc/rsjgNPJz/star-sports-launches-first-tamil-sports-channel.png" group-title="sports",Star Sports 1 Tamil HD
+http://edge.zerobuff.com/c444a5102cec0758c5783e32a00c434ffeebd61d5b96fbe2aa9830fbeb859d831531a5baf0b352de1c86f6e749c25d21faf03194433a1e40e27ef5b87d9a17fecac5ca04c1261b17771292e646ec71b1e6abaddb1a573db28e/index.m3u8
+#EXTINF:-1 tvg-id="Star Sports 2 Tamil HD" tvg-name="Star Sports 2 Tamil HD" tvg-logo="https://i.postimg.cc/T20cSBrZ/Screenshot-2026-02-15-02-59-02-17-40deb401b9ffe8e1df2f1cc5ba480b12.jpg" group-title="sports",Star Sports 2 Tamil HD
+http://185.6.12.59/c444a5102cec0758c5783e32a00c434ffeebd61d5b96fbe2aa9830fbeb859d831531a5baf0b352de1ca5f59f3e905d20f9f0349d5d26194fb02df3ee309043afcf92c350c77b19177345c0e44ded7bb0e0a4f3d9140169e48f73d97d5a/index.m3u8
+#EXTINF:-1 tvg-id="Star Sports 1 FHD" tvg-name="Star Sports 1 FHD" tvg-logo="https://i.postimg.cc/j2cn1VBx/IMG-20260215-024716.jpg" group-title="sports",Star Sports 1 FHD
+http://edge.zerobuff.com/c444a5102cec0758c5783e32a00c434ffeebd61d5b96fbe2aa9830fbe78692fd0f218ad494c131a661cae9e342c25e23fda263cd5e6c1e16fa7af1e9289841feca939054c72a48162517c3b744e97eb5e6f8/index.m3u8
+#EXTINF:-1 tvg-id="Willow HD" tvg-name="Willow HD" tvg-logo="https://i.postimg.cc/mrPq2BSd/images.png" group-title="sports",Willow HD
+http://edge.zerobuff.top/c444a5102cec0758c5783e32a00c434ffeebd61d5b96fbe2bd8e3ef1eba1a4a02b0a81bac79363a660c9e9e64bdc4224f2f0379f5a741413ac7bf1e02e9f1afb96c6900fcc7d1e137b1596ec41bb2ce3e7afac841e0e/index.m3u8
+#EXTINF:-1 tvg-id="Willow Sports HD" tvg-name="Willow Sports HD" tvg-logo="https://i.postimg.cc/7h8jWd02/1292-200x200.png" group-title="sports",Willow Sports HD
+http://edge.zerobuff.top/c444a5102cec0758c5783e32a00c434ffeebd61d5b96fbe2bd8e3ef1ebbca4a31806848cc7997ae30fcbbbe64adf4221fbee2b9855261f44a963a2eb7b9812a999c2c353c72b191Df7015c0b34ded7fb0b5aba1881e503eb1de72/index.m3u8
+#EXTINF:-1 tvg-id="PTV Sports HD" tvg-name="PTV Sports HD" tvg-logo="https://i.postimg.cc/hP7fxdPw/Screenshot-2026-02-15-03-13-44-14-40deb401b9ffe8e1df2f1cc5ba480b12.jpg" group-title="sports",PTV Sports HD
+http://edge.zerobuff.com/c444a5102cec0758c5783e32a00c434ffeebd61d5b96fbe2a99827fac4b9bfb83419c7d597dc2ea660d4f3ef54de5f27b6e9619d08301811fd2df6e029cf40afcf95cb06947b1f437b12c6e645b02be1e4/index.m3u8
+
+#EXTINF:-1 tvg-id="GEO Super Sports HD" tvg-name="GEO Super Sports HD" tvg-logo="https://yt3.googleusercontent.com/PS74GxZJ690vehqUWjF3S6xC0p9hbaCbMxPgrQvUGzSEKk0Pkjawjn5gUdsWHXwld7BUxyiw=s900-c-k-c0x00ffffff-no-rj" group-title="sports",GEO Super Sports HD
+http://edge.zerobuff.com/c444a5102cec0758c5783e32a00c434ffeebd61d5b96fbe2bea91efac1a6a8be172ec4d0d8c32fa47ecbf6e754d8543ef8ed32d008381a16af2aa5b87ac813af99c99304c52a4e147b18c1e313ee28b1e0a8a485/index.m3u8
