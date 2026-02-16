@@ -1,22 +1,108 @@
 
 #EXTM3U
-#EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-name="Star Sports 1 HD" tvg-logo="https://i.postimg.cc/j2cn1VBx/IMG-20260215-024716.jpg" group-title="sports",Star Sports 1 HD
-http://edge.zerobuff.com/c444a5102cec0758c3703033a50c434ffeebd61d5b96fbe2aab810dbe7a6a2be3316a9adc0c163a660c9e9e64bdc4224f2f0379c58741913ad27f0ba7bca15fccf92c101c1284f477b43c3e214b878e3eeaef7dc4b05/index.m3u8
-#EXTINF:-1 tvg-id="Star Sports 1 Hindi HD" tvg-name="Star Sports 1 Hindi FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/SS1_Hindi_HD.JPG/revision/latest?cb=20240313194838" group-title="sports",Star Sports 1 Hindi FHD
-http://edge.zerobuff.com/c444a5102cec0758c3703132a40c434ffeebd61d5b96fbe2aab810dbe7a6a2be3316a9adc0c363a660c9e9e64bdc4224f2f0379c58741c4ea92ca2bb2eca13ff97c69603c07b14437612c1e347ed2fe3e3f8f78c4e02/index.m3u8
-#EXTINF:-1 tvg-id="Star Sports 2 HD" tvg-name="Star Sports 2 HD" tvg-logo="https://i.postimg.cc/Z5pvkyGN/Screenshot-2026-02-15-03-11-48-68-40deb401b9ffe8e1df2f1cc5ba480b12.jpg" group-title="sports",Star Sports 2 HD
-http://edge.zerobuff.com/c444a5102cec0758c3703036a40c434ffeebd61d5b96fbe2aab810dbe7a6a2be3316a9adc0c040a62ccbf7e454dd5d20e4ea3d825f38180bac79a1bf75ca1ba49995915790271d44224296ed16bb7ab2e5a5f1dc1f5338e1/index.m3u8
-#EXTINF:-1 tvg-id="Star Sports 1 Tamil HD" tvg-name="Star Sports 1 Tamil HD" tvg-logo="https://i.postimg.cc/rsjgNPJz/star-sports-launches-first-tamil-sports-channel.png" group-title="sports",Star Sports 1 Tamil HD
-http://edge.zerobuff.com/c444a5102cec0758c5783e32a00c434ffeebd61d5b96fbe2aa9830fbeb859d831531a5baf0b352de1c86f6e749c25d21faf03194433a1e40e27ef5b87d9a17fecac5ca04c1261b17771292e646ec71b1e6abaddb1a573db28e/index.m3u8
-#EXTINF:-1 tvg-id="Star Sports 2 Tamil HD" tvg-name="Star Sports 2 Tamil HD" tvg-logo="https://i.postimg.cc/T20cSBrZ/Screenshot-2026-02-15-02-59-02-17-40deb401b9ffe8e1df2f1cc5ba480b12.jpg" group-title="sports",Star Sports 2 Tamil HD
-http://185.6.12.59/c444a5102cec0758c5783e32a00c434ffeebd61d5b96fbe2aa9830fbeb859d831531a5baf0b352de1ca5f59f3e905d20f9f0349d5d26194fb02df3ee309043afcf92c350c77b19177345c0e44ded7bb0e0a4f3d9140169e48f73d97d5a/index.m3u8
-#EXTINF:-1 tvg-id="Star Sports 1 FHD" tvg-name="Star Sports 1 FHD" tvg-logo="https://i.postimg.cc/j2cn1VBx/IMG-20260215-024716.jpg" group-title="sports",Star Sports 1 FHD
-http://edge.zerobuff.com/c444a5102cec0758c3703033a50c434ffeebd61d5b96fbe2aab810dbe7a6a2be3316a9adc0c163a660c9e9e64bdc4224f2f0379c58741913ad27f0ba7bca15fccf92c101c1284f477b43c3e214b878e3eeaef7dc4b05/index.m3u8
-#EXTINF:-1 tvg-id="Willow HD" tvg-name="Willow HD" tvg-logo="https://i.postimg.cc/mrPq2BSd/images.png" group-title="sports",Willow HD
-http://edge.zerobuff.top/c444a5102cec0758c3703f3ba30c434ffeebd61d5b96fbe2bd8e3ef1eb81a4a02b0a81bae18a6be531a594a7159e1863b6ef359f43391c47b02bf8f77e9917e198c69001c6794917251290e040bc78b7e0acad851b063cb5de28d8705a4cd843/index.m3u8
-#EXTINF:-1 tvg-id="Willow Sports HD" tvg-name="Willow Sports HD" tvg-logo="https://i.postimg.cc/7h8jWd02/1292-200x200.png" group-title="sports",Willow Sports HD
-http://edge.zerobuff.top/c444a5102cec0758c3703f3ba30c434ffeebd61d5b96fbe2bd8e3ef1eb81a4a02b0a81bae18a6be531a594a7159e1863b6ef359f43391c47b02bf8f77e9917e198c69001c6794917251290e040bc78b7e0acad851b063cb5de28d8705a4cd843/index.m3u8
-#EXTINF:-1 tvg-id="PTV Sports HD" tvg-name="PTV Sports HD" tvg-logo="https://i.postimg.cc/hP7fxdPw/Screenshot-2026-02-15-03-13-44-14-40deb401b9ffe8e1df2f1cc5ba480b12.jpg" group-title="sports",PTV Sports HD
-http://edge.zerobuff.com/c444a5102cec0758c3703f31a40c434ffeebd61d5b96fbe2a99827fac4b9bfb83419c7d597dc2ea660d4f3ef54de5c25b6e73cc8543c4947af7da1e92d9f10adc8c2ca07907a191f7413c6e44dbc2cb7b1/index.m3u8
-#EXTINF:-1 tvg-id="GEO Super Sports HD" tvg-name="GEO Super Sports HD" tvg-logo="https://yt3.googleusercontent.com/PS74GxZJ690vehqUWjF3S6xC0p9hbaCbMxPgrQvUGzSEKk0Pkjawjn5gUdsWHXwld7BUxyiw=s900-c-k-c0x00ffffff-no-rj" group-title="sports",GEO Super Sports HD
-http://edge.zerobuff.com/c444a5102cec0758c3703e30a40c434ffeebd61d5b96fbe2bea91efac1a6a8be172ec4d0d8c32fa47ecbf6e754d8543ef8ee30d0596d1843a77ba4e878cd1baac8c3c20e972c4f142118c2b345ed2fe3eeabf688/index.m3u8
+#EXTINF:-1 tvg-id="ts382" tvg-name="IN: Zee Zest (4K)" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="INDIA ENTERTAINMENT",IN: Zee Zest (4K)
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/380446.ts
+#EXTINF:-1 tvg-id="tataskybollywoodpremierehd.in" tvg-name="Tata Play Bollywood Premiere HD" tvg-logo="" group-title="INDIA HINDI MOVIES",Tata Play Bollywood Premiere HD
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/467485.ts
+#EXTINF:-1 tvg-id="ts808" tvg-name="Tata Play Hits HD" tvg-logo="" group-title="INDIA HINDI MOVIES",Tata Play Hits HD
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/467494.ts
+#EXTINF:-1 tvg-id="ts666" tvg-name="Tata Play Theatre HD" tvg-logo="" group-title="INDIA HINDI MOVIES",Tata Play Theatre HD
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/467662.ts
+#EXTINF:-1 tvg-id="vh1hd.in" tvg-name="IN: VH 1 (4K)" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="INDIA ENGLISH MOVIES",IN: VH 1 (4K)
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/453633.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN: REPUBLIC BHARAT" tvg-logo="https://i.ibb.co/nsXSsp6r/Republic-Bharat-logo-svg.png" group-title="INDIAN NEWS",IN: REPUBLIC BHARAT
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/609629.ts
+#EXTINF:-1 tvg-id="ts121" tvg-name="Tata Play Fitness" tvg-logo="" group-title="INDIAN ACTIVE",Tata Play Fitness
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/108880.ts
+#EXTINF:-1 tvg-id="ts872" tvg-name="Tata Play Astro Duniya" tvg-logo="" group-title="INDIAN ACTIVE",Tata Play Astro Duniya
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/467223.ts
+#EXTINF:-1 tvg-id="ts742" tvg-name="Tata Play Aradhana" tvg-logo="" group-title="INDIAN ACTIVE",Tata Play Aradhana
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/467483.ts
+#EXTINF:-1 tvg-id="ts741" tvg-name="Tata Play Classic Cinema " tvg-logo="https://dishtv.mogiio.com/evergreen-classic-logo-large.png" group-title="INDIAN ACTIVE",Tata Play Classic Cinema 
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/52496.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tata Play Classroom" tvg-logo="" group-title="INDIAN ACTIVE",Tata Play Classroom
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/467491.ts
+#EXTINF:-1 tvg-id="ts641" tvg-name="Tata Play Cooking" tvg-logo="" group-title="INDIAN ACTIVE",Tata Play Cooking
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/3748.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tata Play Dance Studio" tvg-logo="" group-title="INDIAN ACTIVE",Tata Play Dance Studio
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/467492.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tata Play Filmy Safar" tvg-logo="" group-title="INDIAN ACTIVE",Tata Play Filmy Safar
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/467493.ts
+#EXTINF:-1 tvg-id="ts735" tvg-name="Tata Play Ibaadat " tvg-logo="" group-title="INDIAN ACTIVE",Tata Play Ibaadat 
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/3749.ts
+#EXTINF:-1 tvg-id="ts929" tvg-name="Tata Play JEE Prep" tvg-logo="" group-title="INDIAN ACTIVE",Tata Play JEE Prep
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/467655.ts
+#EXTINF:-1 tvg-id="ts868" tvg-name="Tata Play Malayalam Cinema" tvg-logo="" group-title="INDIAN ACTIVE",Tata Play Malayalam Cinema
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/467656.ts
+#EXTINF:-1 tvg-id="ts737" tvg-name="Tata Play Music" tvg-logo="" group-title="INDIAN ACTIVE",Tata Play Music
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/467657.ts
+#EXTINF:-1 tvg-id="ts928" tvg-name="Tata Play NEET Prep" tvg-logo="" group-title="INDIAN ACTIVE",Tata Play NEET Prep
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/467658.ts
+#EXTINF:-1 tvg-id="ts571" tvg-name="Tata Play Punjab De Rang  " tvg-logo="" group-title="INDIAN ACTIVE",Tata Play Punjab De Rang  
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/7724.ts
+#EXTINF:-1 tvg-id="ts677" tvg-name="Tata Play ShortsTV " tvg-logo="" group-title="INDIAN ACTIVE",Tata Play ShortsTV 
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/52495.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tata Play Specials" tvg-logo="" group-title="INDIAN ACTIVE",Tata Play Specials
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/467659.ts
+#EXTINF:-1 tvg-id="ts663" tvg-name="Tata Play Tamil Cinema" tvg-logo="" group-title="INDIAN ACTIVE",Tata Play Tamil Cinema
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/467660.ts
+#EXTINF:-1 tvg-id="ts657" tvg-name="Tata Play Telugu Cinema" tvg-logo="" group-title="INDIAN ACTIVE",Tata Play Telugu Cinema
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/467661.ts
+#EXTINF:-1 tvg-id="ts167" tvg-name="Tata Play Vedic Maths" tvg-logo="" group-title="INDIAN ACTIVE",Tata Play Vedic Maths
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/467663.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tata Play Videoshala" tvg-logo="" group-title="INDIAN ACTIVE",Tata Play Videoshala
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/467664.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tata Play Videshi Kahaniyan" tvg-logo="" group-title="INDIAN ACTIVE",Tata Play Videshi Kahaniyan
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/7725.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tata Play Welcome" tvg-logo="" group-title="INDIAN ACTIVE",Tata Play Welcome
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/467673.ts
+#EXTINF:-1 tvg-id="ts986" tvg-name="Tata Play Zindgi" tvg-logo="https://www.lyngsat.com/logo/tv/zz/zee_zindagi_in.png" group-title="INDIAN ACTIVE",Tata Play Zindgi
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/108882.ts
+#EXTINF:-1 tvg-id="ts811" tvg-name="Tata Play Adbhut Kahaniyan" tvg-logo="" group-title="INDIAN ACTIVE",Tata Play Adbhut Kahaniyan
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/467677.ts
+#EXTINF:-1 tvg-id="ts840" tvg-name="Tata Play Anime Local" tvg-logo="" group-title="INDIAN ACTIVE",Tata Play Anime Local
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/467679.ts
+#EXTINF:-1 tvg-id="ts1082" tvg-name="Tata Play Asomiya Monoronjan " tvg-logo="" group-title="INDIAN ACTIVE",Tata Play Asomiya Monoronjan 
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/108877.ts
+#EXTINF:-1 tvg-id="ts618" tvg-name="Tata Play Beauty" tvg-logo="" group-title="INDIAN ACTIVE",Tata Play Beauty
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/3745.ts
+#EXTINF:-1 tvg-id="ts1130" tvg-name="Tata Play Bollywood Masala " tvg-logo="" group-title="INDIAN ACTIVE",Tata Play Bollywood Masala 
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/108874.ts
+#EXTINF:-1 tvg-id="ts486" tvg-name="Tata Play Bollywood Premiere" tvg-logo="" group-title="INDIAN ACTIVE",Tata Play Bollywood Premiere
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/467684.ts
+#EXTINF:-1 tvg-id="ts964" tvg-name="Tata Play Classic TV" tvg-logo="" group-title="INDIAN ACTIVE",Tata Play Classic TV
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/467694.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tata Play Comedy" tvg-logo="" group-title="INDIAN ACTIVE",Tata Play Comedy
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/467699.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tata Play Darshan" tvg-logo="" group-title="INDIAN ACTIVE",Tata Play Darshan
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/467701.ts
+#EXTINF:-1 tvg-id="ts71" tvg-name="Tata Play English in Hindi" tvg-logo="" group-title="INDIAN ACTIVE",Tata Play English in Hindi
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/467709.ts
+#EXTINF:-1 tvg-id="ts645" tvg-name="Tata Play English in Telugu" tvg-logo="" group-title="INDIAN ACTIVE",Tata Play English in Telugu
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/467711.ts
+#EXTINF:-1 tvg-id="ts772" tvg-name="Tata Play Gujarati Cinema  " tvg-logo="" group-title="INDIAN ACTIVE",Tata Play Gujarati Cinema  
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/108879.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tata Play South Talkies " tvg-logo="" group-title="INDIAN ACTIVE",Tata Play South Talkies 
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/108878.ts
+#EXTINF:-1 tvg-id="ts1288" tvg-name="TL: Zee Telugu News" tvg-logo="https://www.lyngsat.com/logo/tv/zz/zee-telugu-news-in.png" group-title="TELUGU",TL: Zee Telugu News
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/380447.ts
+#EXTINF:-1 tvg-id="" tvg-name="Visudha Mejo (2022)" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjRiZjMyNzctY2M0Mi00NWUzLWFkODEtZWE2ZmM1ZDE0YmJiXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_.jpg" group-title="MALAYALAM (2022)",Visudha Mejo (2022)
+https://tv.starsharetv.com:443/movie/pradsparents532/Me4wtREzwF/187583.mkv
+#EXTINF:-1 tvg-id="udayacomedy.in" tvg-name="Kand: UDAYA COMEDY FHD" tvg-logo="" group-title="KANNADA",Kand: UDAYA COMEDY FHD
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/9447.ts
+#EXTINF:-1 tvg-id="" tvg-name="KAN: SVBC 3" tvg-logo="" group-title="KANNADA",KAN: SVBC 3
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/376281.ts
+#EXTINF:-1 tvg-id="" tvg-name="KN: ZEE KANNADA NEWS" tvg-logo="" group-title="KANNADA",KN: ZEE KANNADA NEWS
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/380448.ts
+#EXTINF:-1 tvg-id="publicmovies.in" tvg-name="KAN: Public Movies" tvg-logo="" group-title="KANNADA",KAN: Public Movies
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/380979.ts
+#EXTINF:-1 tvg-id="tv9gujarati.in" tvg-name="GUJ: TV9" tvg-logo="" group-title="GUJARATI",GUJ: TV9
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/379779.ts
+#EXTINF:-1 tvg-id="ptcpunjabi.in" tvg-name="PB | PTC PUNJABI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/PTC_Punjabi.png" group-title="PUNJABI",PB | PTC PUNJABI
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/606227.ts
+#EXTINF:-1 tvg-id="ptcpunjabi.in" tvg-name="PB | PTC PUNJABI." tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/PTC_Punjabi.png" group-title="PUNJABI",PB | PTC PUNJABI.
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/606229.ts
+#EXTINF:-1 tvg-id="ptcpunjabi.in" tvg-name="PB | PTC PUNJABI | AIRTEL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/PTC_Punjabi.png" group-title="PUNJABI",PB | PTC PUNJABI | AIRTEL
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/606239.ts
+#EXTINF:-1 tvg-id="ptcpunjabi.uk" tvg-name="PB | PTC PUNJABI | UK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/PTC_Punjabi.png" group-title="PUNJABI",PB | PTC PUNJABI | UK
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/606244.ts
