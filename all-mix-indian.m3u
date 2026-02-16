@@ -1,108 +1,639 @@
 
 #EXTM3U
-#EXTINF:-1 tvg-id="ts382" tvg-name="IN: Zee Zest (4K)" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="INDIA ENTERTAINMENT",IN: Zee Zest (4K)
-https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/380446.ts
-#EXTINF:-1 tvg-id="tataskybollywoodpremierehd.in" tvg-name="Tata Play Bollywood Premiere HD" tvg-logo="" group-title="INDIA HINDI MOVIES",Tata Play Bollywood Premiere HD
-https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/467485.ts
-#EXTINF:-1 tvg-id="ts808" tvg-name="Tata Play Hits HD" tvg-logo="" group-title="INDIA HINDI MOVIES",Tata Play Hits HD
-https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/467494.ts
-#EXTINF:-1 tvg-id="ts666" tvg-name="Tata Play Theatre HD" tvg-logo="" group-title="INDIA HINDI MOVIES",Tata Play Theatre HD
-https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/467662.ts
-#EXTINF:-1 tvg-id="vh1hd.in" tvg-name="IN: VH 1 (4K)" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="INDIA ENGLISH MOVIES",IN: VH 1 (4K)
-https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/453633.ts
-#EXTINF:-1 tvg-id="" tvg-name="IN: REPUBLIC BHARAT" tvg-logo="https://i.ibb.co/nsXSsp6r/Republic-Bharat-logo-svg.png" group-title="INDIAN NEWS",IN: REPUBLIC BHARAT
-https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/609629.ts
-#EXTINF:-1 tvg-id="ts121" tvg-name="Tata Play Fitness" tvg-logo="" group-title="INDIAN ACTIVE",Tata Play Fitness
-https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/108880.ts
-#EXTINF:-1 tvg-id="ts872" tvg-name="Tata Play Astro Duniya" tvg-logo="" group-title="INDIAN ACTIVE",Tata Play Astro Duniya
-https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/467223.ts
-#EXTINF:-1 tvg-id="ts742" tvg-name="Tata Play Aradhana" tvg-logo="" group-title="INDIAN ACTIVE",Tata Play Aradhana
-https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/467483.ts
-#EXTINF:-1 tvg-id="ts741" tvg-name="Tata Play Classic Cinema " tvg-logo="https://dishtv.mogiio.com/evergreen-classic-logo-large.png" group-title="INDIAN ACTIVE",Tata Play Classic Cinema 
-https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/52496.ts
-#EXTINF:-1 tvg-id="" tvg-name="Tata Play Classroom" tvg-logo="" group-title="INDIAN ACTIVE",Tata Play Classroom
-https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/467491.ts
-#EXTINF:-1 tvg-id="ts641" tvg-name="Tata Play Cooking" tvg-logo="" group-title="INDIAN ACTIVE",Tata Play Cooking
-https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/3748.ts
-#EXTINF:-1 tvg-id="" tvg-name="Tata Play Dance Studio" tvg-logo="" group-title="INDIAN ACTIVE",Tata Play Dance Studio
-https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/467492.ts
-#EXTINF:-1 tvg-id="" tvg-name="Tata Play Filmy Safar" tvg-logo="" group-title="INDIAN ACTIVE",Tata Play Filmy Safar
-https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/467493.ts
-#EXTINF:-1 tvg-id="ts735" tvg-name="Tata Play Ibaadat " tvg-logo="" group-title="INDIAN ACTIVE",Tata Play Ibaadat 
-https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/3749.ts
-#EXTINF:-1 tvg-id="ts929" tvg-name="Tata Play JEE Prep" tvg-logo="" group-title="INDIAN ACTIVE",Tata Play JEE Prep
-https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/467655.ts
-#EXTINF:-1 tvg-id="ts868" tvg-name="Tata Play Malayalam Cinema" tvg-logo="" group-title="INDIAN ACTIVE",Tata Play Malayalam Cinema
-https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/467656.ts
-#EXTINF:-1 tvg-id="ts737" tvg-name="Tata Play Music" tvg-logo="" group-title="INDIAN ACTIVE",Tata Play Music
-https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/467657.ts
-#EXTINF:-1 tvg-id="ts928" tvg-name="Tata Play NEET Prep" tvg-logo="" group-title="INDIAN ACTIVE",Tata Play NEET Prep
-https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/467658.ts
-#EXTINF:-1 tvg-id="ts571" tvg-name="Tata Play Punjab De Rang  " tvg-logo="" group-title="INDIAN ACTIVE",Tata Play Punjab De Rang  
-https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/7724.ts
-#EXTINF:-1 tvg-id="ts677" tvg-name="Tata Play ShortsTV " tvg-logo="" group-title="INDIAN ACTIVE",Tata Play ShortsTV 
-https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/52495.ts
-#EXTINF:-1 tvg-id="" tvg-name="Tata Play Specials" tvg-logo="" group-title="INDIAN ACTIVE",Tata Play Specials
-https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/467659.ts
-#EXTINF:-1 tvg-id="ts663" tvg-name="Tata Play Tamil Cinema" tvg-logo="" group-title="INDIAN ACTIVE",Tata Play Tamil Cinema
-https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/467660.ts
-#EXTINF:-1 tvg-id="ts657" tvg-name="Tata Play Telugu Cinema" tvg-logo="" group-title="INDIAN ACTIVE",Tata Play Telugu Cinema
-https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/467661.ts
-#EXTINF:-1 tvg-id="ts167" tvg-name="Tata Play Vedic Maths" tvg-logo="" group-title="INDIAN ACTIVE",Tata Play Vedic Maths
-https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/467663.ts
-#EXTINF:-1 tvg-id="" tvg-name="Tata Play Videoshala" tvg-logo="" group-title="INDIAN ACTIVE",Tata Play Videoshala
-https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/467664.ts
-#EXTINF:-1 tvg-id="" tvg-name="Tata Play Videshi Kahaniyan" tvg-logo="" group-title="INDIAN ACTIVE",Tata Play Videshi Kahaniyan
-https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/7725.ts
-#EXTINF:-1 tvg-id="" tvg-name="Tata Play Welcome" tvg-logo="" group-title="INDIAN ACTIVE",Tata Play Welcome
-https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/467673.ts
-#EXTINF:-1 tvg-id="ts986" tvg-name="Tata Play Zindgi" tvg-logo="https://www.lyngsat.com/logo/tv/zz/zee_zindagi_in.png" group-title="INDIAN ACTIVE",Tata Play Zindgi
-https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/108882.ts
-#EXTINF:-1 tvg-id="ts811" tvg-name="Tata Play Adbhut Kahaniyan" tvg-logo="" group-title="INDIAN ACTIVE",Tata Play Adbhut Kahaniyan
-https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/467677.ts
-#EXTINF:-1 tvg-id="ts840" tvg-name="Tata Play Anime Local" tvg-logo="" group-title="INDIAN ACTIVE",Tata Play Anime Local
-https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/467679.ts
-#EXTINF:-1 tvg-id="ts1082" tvg-name="Tata Play Asomiya Monoronjan " tvg-logo="" group-title="INDIAN ACTIVE",Tata Play Asomiya Monoronjan 
-https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/108877.ts
-#EXTINF:-1 tvg-id="ts618" tvg-name="Tata Play Beauty" tvg-logo="" group-title="INDIAN ACTIVE",Tata Play Beauty
-https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/3745.ts
-#EXTINF:-1 tvg-id="ts1130" tvg-name="Tata Play Bollywood Masala " tvg-logo="" group-title="INDIAN ACTIVE",Tata Play Bollywood Masala 
-https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/108874.ts
-#EXTINF:-1 tvg-id="ts486" tvg-name="Tata Play Bollywood Premiere" tvg-logo="" group-title="INDIAN ACTIVE",Tata Play Bollywood Premiere
-https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/467684.ts
-#EXTINF:-1 tvg-id="ts964" tvg-name="Tata Play Classic TV" tvg-logo="" group-title="INDIAN ACTIVE",Tata Play Classic TV
-https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/467694.ts
-#EXTINF:-1 tvg-id="" tvg-name="Tata Play Comedy" tvg-logo="" group-title="INDIAN ACTIVE",Tata Play Comedy
-https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/467699.ts
-#EXTINF:-1 tvg-id="" tvg-name="Tata Play Darshan" tvg-logo="" group-title="INDIAN ACTIVE",Tata Play Darshan
-https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/467701.ts
-#EXTINF:-1 tvg-id="ts71" tvg-name="Tata Play English in Hindi" tvg-logo="" group-title="INDIAN ACTIVE",Tata Play English in Hindi
-https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/467709.ts
-#EXTINF:-1 tvg-id="ts645" tvg-name="Tata Play English in Telugu" tvg-logo="" group-title="INDIAN ACTIVE",Tata Play English in Telugu
-https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/467711.ts
-#EXTINF:-1 tvg-id="ts772" tvg-name="Tata Play Gujarati Cinema  " tvg-logo="" group-title="INDIAN ACTIVE",Tata Play Gujarati Cinema  
-https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/108879.ts
-#EXTINF:-1 tvg-id="" tvg-name="Tata Play South Talkies " tvg-logo="" group-title="INDIAN ACTIVE",Tata Play South Talkies 
-https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/108878.ts
-#EXTINF:-1 tvg-id="ts1288" tvg-name="TL: Zee Telugu News" tvg-logo="https://www.lyngsat.com/logo/tv/zz/zee-telugu-news-in.png" group-title="TELUGU",TL: Zee Telugu News
-https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/380447.ts
-#EXTINF:-1 tvg-id="" tvg-name="Visudha Mejo (2022)" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjRiZjMyNzctY2M0Mi00NWUzLWFkODEtZWE2ZmM1ZDE0YmJiXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_.jpg" group-title="MALAYALAM (2022)",Visudha Mejo (2022)
-https://tv.starsharetv.com:443/movie/pradsparents532/Me4wtREzwF/187583.mkv
-#EXTINF:-1 tvg-id="udayacomedy.in" tvg-name="Kand: UDAYA COMEDY FHD" tvg-logo="" group-title="KANNADA",Kand: UDAYA COMEDY FHD
-https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/9447.ts
-#EXTINF:-1 tvg-id="" tvg-name="KAN: SVBC 3" tvg-logo="" group-title="KANNADA",KAN: SVBC 3
-https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/376281.ts
-#EXTINF:-1 tvg-id="" tvg-name="KN: ZEE KANNADA NEWS" tvg-logo="" group-title="KANNADA",KN: ZEE KANNADA NEWS
-https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/380448.ts
-#EXTINF:-1 tvg-id="publicmovies.in" tvg-name="KAN: Public Movies" tvg-logo="" group-title="KANNADA",KAN: Public Movies
-https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/380979.ts
-#EXTINF:-1 tvg-id="tv9gujarati.in" tvg-name="GUJ: TV9" tvg-logo="" group-title="GUJARATI",GUJ: TV9
-https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/379779.ts
-#EXTINF:-1 tvg-id="ptcpunjabi.in" tvg-name="PB | PTC PUNJABI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/PTC_Punjabi.png" group-title="PUNJABI",PB | PTC PUNJABI
-https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/606227.ts
-#EXTINF:-1 tvg-id="ptcpunjabi.in" tvg-name="PB | PTC PUNJABI." tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/PTC_Punjabi.png" group-title="PUNJABI",PB | PTC PUNJABI.
-https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/606229.ts
-#EXTINF:-1 tvg-id="ptcpunjabi.in" tvg-name="PB | PTC PUNJABI | AIRTEL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/PTC_Punjabi.png" group-title="PUNJABI",PB | PTC PUNJABI | AIRTEL
-https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/606239.ts
-#EXTINF:-1 tvg-id="ptcpunjabi.uk" tvg-name="PB | PTC PUNJABI | UK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/PTC_Punjabi.png" group-title="PUNJABI",PB | PTC PUNJABI | UK
-https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/606244.ts
+#EXTINF:-1 tvg-id="zeetvhd.in" tvg-name="IN: ZEETV (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="INDIA ENTERTAINMENT",IN: ZEETV (4K).
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/98850.ts
+
+#EXTINF:-1 tvg-id="ts40" tvg-name="IN: &TV (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="INDIA ENTERTAINMENT",IN: &TV (4K).
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/98852.ts
+
+#EXTINF:-1 tvg-id="colorshd.in" tvg-name="IN: COLORS (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="INDIA ENTERTAINMENT",IN: COLORS (4K).
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/98851.ts
+
+#EXTINF:-1 tvg-id="starplushd.in" tvg-name="IN: STAR PLUS (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="INDIA ENTERTAINMENT",IN: STAR PLUS (4K).
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/98849.ts
+
+
+#EXTINF:-1 tvg-id="sonyhd.in" tvg-name="IN: SONY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Sony_TV_new.png" group-title="INDIA ENTERTAINMENT",IN: SONY HD
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/144.ts
+#EXTINF:-1 tvg-id="sonysabhd.in" tvg-name="IN: SONY SAB HD" tvg-logo="https://i.ibb.co/Ns8hynf/Sony-Sab-new.png" group-title="INDIA ENTERTAINMENT",IN: SONY SAB HD
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/145.ts
+#EXTINF:-1 tvg-id="ts63" tvg-name="IN: ZEE TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="INDIA ENTERTAINMENT",IN: ZEE TV HD
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/161.ts
+#EXTINF:-1 tvg-id="starbharathd.in" tvg-name="IN: STAR BHARAT HD" tvg-logo="https://multireach.in/wp-content/uploads/2023/04/STAR-BHARAT-HD.png" group-title="INDIA ENTERTAINMENT",IN: STAR BHARAT HD
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/199.ts
+#EXTINF:-1 tvg-id="colorshd.in" tvg-name="IN: COLOR HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Colors_tv2017.png/220px-Colors_tv2017.png" group-title="INDIA ENTERTAINMENT",IN: COLOR HD
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/219.ts
+#EXTINF:-1 tvg-id="starplushd.in" tvg-name="IN: STAR PLUS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="INDIA ENTERTAINMENT",IN: STAR PLUS HD
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/221.ts
+#EXTINF:-1 tvg-id="ts15" tvg-name="IN: SONY TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Sony_TV_new.png" group-title="INDIA ENTERTAINMENT",IN: SONY TV HD
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/224.ts
+#EXTINF:-1 tvg-id="ts40" tvg-name="IN: & TV HD" tvg-logo="https://i.ibb.co/QKh19yZ/512x512bb-1.png" group-title="INDIA ENTERTAINMENT",IN: & TV HD
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/232.ts
+#EXTINF:-1 tvg-id="sonymaxhd.in" tvg-name="IN: SONY MAX HD" tvg-logo="http://geo-iptv.com/channels_icon_api/07547230daed982fcf56f85dccfb9617.png" group-title="INDIA HINDI MOVIES",IN: SONY MAX HD
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/151.ts
+#EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="IN: STAR GOLD HD" tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2016/01/Star_Gold.png" group-title="INDIA HINDI MOVIES",IN: STAR GOLD HD
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/194.ts
+#EXTINF:-1 tvg-id="stargoldselecthd.in" tvg-name="IN: STAR GOLD SELECT HD" tvg-logo="https://i.ibb.co/qkgW1nd/c0a0c8607691347e22942f2b86473199.png" group-title="INDIA HINDI MOVIES",IN: STAR GOLD SELECT HD
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/210.ts
+#EXTINF:-1 tvg-id="zeecinemaindiahd.in" tvg-name="IN: ZEE CINEMA HD" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/zee-cinema-white.png" group-title="INDIA HINDI MOVIES",IN: ZEE CINEMA HD
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/230.ts
+#EXTINF:-1 tvg-id="andpictureshd.in" tvg-name="IN: & PICTURES HD" tvg-logo="https://www.zeeentertainment.com/wp-content/uploads/2020/04/pictures-HD.png" group-title="INDIA HINDI MOVIES",IN: & PICTURES HD
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/231.ts
+#EXTINF:-1 tvg-id="colorscineplexhd.in" tvg-name="IN: CINEPLEX HD" tvg-logo="https://curl.pk/img/u/0bd18c374b345d10f04ddb205756c3a04671.png" group-title="INDIA HINDI MOVIES",IN: CINEPLEX HD
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/867.ts
+#EXTINF:-1 tvg-id="ts1183" tvg-name="IN: &XPLOR (4K)" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="INDIA HINDI MOVIES",IN: &XPLOR (4K)
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/4082.ts
+#EXTINF:-1 tvg-id="ts840" tvg-name="IN: Colors Cineplex Bollywood" tvg-logo="https://i.ibb.co/bm9fqc8/Colors-Cineplex-Bollywood.png" group-title="INDIA HINDI MOVIES",IN: Colors Cineplex Bollywood
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/37074.ts
+#EXTINF:-1 tvg-id="stargoldhd2.in" tvg-name="IN: STAR GOLD 2 (4K)" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="INDIA HINDI MOVIES",IN: STAR GOLD 2 (4K)
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/157081.ts
+#EXTINF:-1 tvg-id="ts840" tvg-name="IN: COLORS CINEPLEX SUPERHITS" tvg-logo="https://www.lyngsat.com/logo/tv/cc/colors-cineplex-superhits-in.png" group-title="INDIA HINDI MOVIES",IN: COLORS CINEPLEX SUPERHITS
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/172368.ts
+#EXTINF:-1 tvg-id="sonypixhd.in" tvg-name="IN: SONY PIX HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/fd/Sony_Pix_HD.png/revision/latest/scale-to-width-down/340?cb=20191203075048" group-title="INDIA ENGLISH MOVIES",IN: SONY PIX HD
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/147.ts
+#EXTINF:-1 tvg-id="mnplushd.in" tvg-name="IN: MN PLUS" tvg-logo="" group-title="INDIA ENGLISH MOVIES",IN: MN PLUS
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/178.ts
+#EXTINF:-1 tvg-id="ts174" tvg-name="IN: ROMEDY NOW HD" tvg-logo="" group-title="INDIA ENGLISH MOVIES",IN: ROMEDY NOW HD
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/179.ts
+#EXTINF:-1 tvg-id="axnhd.in" tvg-name="IN: HBO 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="INDIA ENGLISH MOVIES",IN: HBO 2 HD
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/185.ts
+#EXTINF:-1 tvg-id="colorsinfinityhd.in" tvg-name="IN: COLORS INFINITY HD" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/tv18-colors-infinity-hd-logo-300x300.jpg" group-title="INDIA ENGLISH MOVIES",IN: COLORS INFINITY HD
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/187.ts
+#EXTINF:-1 tvg-id="mnx.in" tvg-name="IN: MNX HD" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/times-mnx-hd-logo-300x300.jpg" group-title="INDIA ENGLISH MOVIES",IN: MNX HD
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/191.ts
+#EXTINF:-1 tvg-id="zeecafehd.in" tvg-name="IN: ZEECAFE HD" tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2015/11/19/Untitled-1.jpg?itok=60idFHQ6" group-title="INDIA ENGLISH MOVIES",IN: ZEECAFE HD
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/196.ts
+#EXTINF:-1 tvg-id="andprivehd.in" tvg-name="IN: & PRIVE HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/%26priv%C3%A9_hd.jpg/revision/latest/scale-to-width-down/340?cb=20200906062328" group-title="INDIA ENGLISH MOVIES",IN: & PRIVE HD
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/201.ts
+#EXTINF:-1 tvg-id="starmoviesselecthd.in" tvg-name="IN: STAR MOVIES SELECT HD" tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/55fb00a38ead0e79178b5f14/1565806488322/55fb00a38ead0e79178b5f14.jpg" group-title="INDIA ENGLISH MOVIES",IN: STAR MOVIES SELECT HD
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/218.ts
+#EXTINF:-1 tvg-id="andflixhd.in" tvg-name="IN: & FLIX HD" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/and-flix-hd-logo-300x300.jpg" group-title="INDIA ENGLISH MOVIES",IN: & FLIX HD
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/253.ts
+#EXTINF:-1 tvg-id="starmovieshd.in" tvg-name="IN: STAR MOVIES HD" tvg-logo="https://pluspng.com/img-png/star-movies-logo-png-star-movies-hd-star-movies-png-300.png" group-title="INDIA ENGLISH MOVIES",IN: STAR MOVIES HD
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/979.ts
+#EXTINF:-1 tvg-id="discoveryhd.in" tvg-name="IN: DISCOVERY WORLD HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/91/Discovery_HD_World.png/revision/latest?cb=20190102093400" group-title="INDIA DOCUMENTARY",IN: DISCOVERY WORLD HD
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/156.ts
+#EXTINF:-1 tvg-id="sonybbcearthhd.in" tvg-name="IN: SONY BBC EARTH HD (ENG)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTT9j-h-4CiDAqFZA2ijrp4jj8dPM10fve8GA&usqp=CAU" group-title="INDIA DOCUMENTARY",IN: SONY BBC EARTH HD (ENG)
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/174.ts
+#EXTINF:-1 tvg-id="historytv18hd.in" tvg-name="IN: HISTORY HD" tvg-logo="https://pluspng.com/img-png/history-hd-png-historyhd-png-352.png" group-title="INDIA DOCUMENTARY",IN: HISTORY HD
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/180.ts
+#EXTINF:-1 tvg-id="travelxphd.in" tvg-name="IN: TRAVEL XP HD (HINDI)" tvg-logo="https://www.travelxp.tv/wp-content/uploads/2016/12/travelxp-HD.jpg" group-title="INDIA DOCUMENTARY",IN: TRAVEL XP HD (HINDI)
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/181.ts
+#EXTINF:-1 tvg-id="animalplanethd.in" tvg-name="IN: ANIMAL PLANET HD" tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/f/f4/Animal_Planet_HD_%282018-.n.v.%29.png/revision/latest?cb=20190715173635" group-title="INDIA DOCUMENTARY",IN: ANIMAL PLANET HD
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/182.ts
+#EXTINF:-1 tvg-id="sonybbcearthhd.in" tvg-name="IN: SONY BBC EARTH HD (ENGLISH)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTT9j-h-4CiDAqFZA2ijrp4jj8dPM10fve8GA&usqp=CAU" group-title="INDIA DOCUMENTARY",IN: SONY BBC EARTH HD (ENGLISH)
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/190.ts
+#EXTINF:-1 tvg-id="ts484" tvg-name="IN: TRAVEL XP (4K)" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="INDIA DOCUMENTARY",IN: TRAVEL XP (4K)
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/1623.ts
+#EXTINF:-1 tvg-id="historytv18hd.in" tvg-name="IN: HISTORY 18 (HINDI)" tvg-logo="https://pluspng.com/img-png/history-hd-png-historyhd-png-352.png" group-title="INDIA DOCUMENTARY",IN: HISTORY 18 (HINDI)
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/5252.ts
+#EXTINF:-1 tvg-id="nationalgeographicchannelhd.in" tvg-name="IN: NATIONAL GEOGRAPHIC INDIA" tvg-logo="https://i.dlpng.com/static/png/6961734_preview.png" group-title="INDIA DOCUMENTARY",IN: NATIONAL GEOGRAPHIC INDIA
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/7342.ts
+#EXTINF:-1 tvg-id="nationalgeographicchannelhd.in" tvg-name="IN: NATIONAL GEOGRAPHIC" tvg-logo="https://i.dlpng.com/static/png/6961734_preview.png" group-title="INDIA DOCUMENTARY",IN: NATIONAL GEOGRAPHIC
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/7343.ts
+#EXTINF:-1 tvg-id="natgeowildhd.in" tvg-name="IN: NATGEO WILD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="INDIA DOCUMENTARY",IN: NATGEO WILD HD
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/7344.ts
+#EXTINF:-1 tvg-id="sonybbcearthhd.in" tvg-name="IN: SONY BBC EARTH HD (HINDI)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTT9j-h-4CiDAqFZA2ijrp4jj8dPM10fve8GA&usqp=CAU" group-title="INDIA DOCUMENTARY",IN: SONY BBC EARTH HD (HINDI)
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/7721.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN : B4U Plus" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f6/B4U_Plus.jpeg/revision/latest?cb=20200225090223" group-title="INDIA MUSIC",IN : B4U Plus
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/969.ts
+#EXTINF:-1 tvg-id="ts517" tvg-name="IN: Zing TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zing.png" group-title="INDIA MUSIC",IN: Zing TV
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/970.ts
+#EXTINF:-1 tvg-id="mtvhdplus.in" tvg-name="IN: MTV HD PLUS" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" group-title="INDIA MUSIC",IN: MTV HD PLUS
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/4029.ts
+#EXTINF:-1 tvg-id="9xm.in" tvg-name="IN: 9XM" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/9XM.png" group-title="INDIA MUSIC",IN: 9XM
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/7255.ts
+#EXTINF:-1 tvg-id="mastiii.in" tvg-name="IN: Mastiii" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mastiii.png" group-title="INDIA MUSIC",IN: Mastiii
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/7256.ts
+#EXTINF:-1 tvg-id="b4umusic.in" tvg-name="IN: B4U Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Music.png" group-title="INDIA MUSIC",IN: B4U Music
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/7258.ts
+#EXTINF:-1 tvg-id="9xjalwa.in" tvg-name="IN: 9X Jalwa HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/9X_Jalwa.png" group-title="INDIA MUSIC",IN: 9X Jalwa HD
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/9057.ts
+#EXTINF:-1 tvg-id="zoom.in" tvg-name="IN: Zoom" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zoom.png" group-title="INDIA MUSIC",IN: Zoom
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/9488.ts
+#EXTINF:-1 tvg-id="mtvhdplus.in" tvg-name="IN: MTV Plus (4K)" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="INDIA MUSIC",IN: MTV Plus (4K)
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/94499.ts
+#EXTINF:-1 tvg-id="mtvhdplus.in" tvg-name="MTV FHD (HINDI)" tvg-logo="http://ottliveeventlogo.com/wp-content/uploads/2022/11/FIFA-World-Cup-Logo.png" group-title="INDIA MUSIC",MTV FHD (HINDI)
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/130045.ts
+#EXTINF:-1 tvg-id="ndtv24x7.in" tvg-name="IN: NDTV 24x7" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_24x7.png" group-title="INDIAN NEWS",IN: NDTV 24x7
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/247.ts
+#EXTINF:-1 tvg-id="news18india.in" tvg-name="IN: NEWS 18 INDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/News_18_India.png" group-title="INDIAN NEWS",IN: NEWS 18 INDIA
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/2436.ts
+#EXTINF:-1 tvg-id="ddnews.in" tvg-name="IN:  DD News (4K)" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="INDIAN NEWS",IN:  DD News (4K)
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/4043.ts
+#EXTINF:-1 tvg-id="aajtakhd.in" tvg-name="IN:  Aaj_Tak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Aaj_tak_logo.png" group-title="INDIAN NEWS",IN:  Aaj_Tak
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/5409.ts
+#EXTINF:-1 tvg-id="ts583" tvg-name="IN: Zee Rajasthan news" tvg-logo="" group-title="INDIAN NEWS",IN: Zee Rajasthan news
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/7063.ts
+#EXTINF:-1 tvg-id="zeenews.in" tvg-name="IN: Zee News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_News.png" group-title="INDIAN NEWS",IN: Zee News
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/7259.ts
+#EXTINF:-1 tvg-id="abpnews.in" tvg-name="IN:  ABP NEWS" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_News_India.png" group-title="INDIAN NEWS",IN:  ABP NEWS
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/7260.ts
+#EXTINF:-1 tvg-id="ts179" tvg-name="IN: NDTV INDIA" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_India.png" group-title="INDIAN NEWS",IN: NDTV INDIA
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/7430.ts
+#EXTINF:-1 tvg-id="ts183" tvg-name="IN: India news" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/India_news.png" group-title="INDIAN NEWS",IN: India news
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/7431.ts
+#EXTINF:-1 tvg-id="ts79" tvg-name="IN: News18 News UP" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_UP.png" group-title="INDIAN NEWS",IN: News18 News UP
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/7435.ts
+#EXTINF:-1 tvg-id="ts106" tvg-name="IN: News18 India (News)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/News_18_India.png" group-title="INDIAN NEWS",IN: News18 India (News)
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/7436.ts
+#EXTINF:-1 tvg-id="ts93" tvg-name="IN: NDTV Profit (news)" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_Profit.png" group-title="INDIAN NEWS",IN: NDTV Profit (news)
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/7437.ts
+#EXTINF:-1 tvg-id="goodnesstv.in" tvg-name="IN: Good news TV" tvg-logo="https://www.lyngsat.com/logo/tv/gg/good-news-today-in.png" group-title="INDIAN NEWS",IN: Good news TV
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/9041.ts
+#EXTINF:-1 tvg-id="ts72" tvg-name="IN:Republic TV (English)" tvg-logo="" group-title="INDIAN NEWS",IN:Republic TV (English)
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/9056.ts
+#EXTINF:-1 tvg-id="4seven.uk" tvg-name="IN: Republic TV HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Republic_TV.png" group-title="INDIAN NEWS",IN: Republic TV HD
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/9080.ts
+#EXTINF:-1 tvg-id="ts840" tvg-name="IN: CNBC Awaaz (News) HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Awaaz.png" group-title="INDIAN NEWS",IN: CNBC Awaaz (News) HD
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/9116.ts
+#EXTINF:-1 tvg-id="ts840" tvg-name="IN: CNBC Tv 18 (News)" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Tv_18.png" group-title="INDIAN NEWS",IN: CNBC Tv 18 (News)
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/9117.ts
+#EXTINF:-1 tvg-id="ts255" tvg-name="IN: WION TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Wion.png" group-title="INDIAN NEWS",IN: WION TV
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/9481.ts
+#EXTINF:-1 tvg-id="ts512" tvg-name="IN: Zee MP (News)" tvg-logo="" group-title="INDIAN NEWS",IN: Zee MP (News)
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/9725.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN: 1st India (News)" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/First_India_News.png" group-title="INDIAN NEWS",IN: 1st India (News)
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/9974.ts
+#EXTINF:-1 tvg-id="indiatv.in" tvg-name="IN:  India TV NEWS" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/India_news.png" group-title="INDIAN NEWS",IN:  India TV NEWS
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/23247.ts
+#EXTINF:-1 tvg-id="indianews.in" tvg-name="IN:  India News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/India_news.png" group-title="INDIAN NEWS",IN:  India News
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/23248.ts
+#EXTINF:-1 tvg-id="aajtakhd.in" tvg-name="IN: AAJTAK (4K)" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="INDIAN NEWS",IN: AAJTAK (4K)
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/23795.ts
+#EXTINF:-1 tvg-id="ts260" tvg-name="IN: Zee Business (News)" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Business.png" group-title="INDIAN NEWS",IN: Zee Business (News)
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/23938.ts
+#EXTINF:-1 tvg-id="ts447" tvg-name="SADHNA TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sadhna.png" group-title="INDIAN NEWS",SADHNA TV
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/25076.ts
+#EXTINF:-1 tvg-id="ts1" tvg-name="IN: INDIA TODAY (News)" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/India_Today.png" group-title="INDIAN NEWS",IN: INDIA TODAY (News)
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/35714.ts
+#EXTINF:-1 tvg-id="ts205" tvg-name="IN: News18 Rajasthan" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_RAJASTHAN.png" group-title="INDIAN NEWS",IN: News18 Rajasthan
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/37071.ts
+#EXTINF:-1 tvg-id="timesnowhd.in" tvg-name="Times Now World HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Times_NOW.png" group-title="INDIAN NEWS",Times Now World HD
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/124897.ts
+#EXTINF:-1 tvg-id="ts932" tvg-name="IN: TimesNow NavaBharat (4K)" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="INDIAN NEWS",IN: TimesNow NavaBharat (4K)
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/155585.ts
+#EXTINF:-1 tvg-id="ts278" tvg-name="IN: GNT NEWS" tvg-logo="" group-title="INDIAN NEWS",IN: GNT NEWS
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/156011.ts
+#EXTINF:-1 tvg-id="ts523" tvg-name="IN: Zee Anmol" tvg-logo="" group-title="INDIAN SD",IN: Zee Anmol
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/203.ts
+#EXTINF:-1 tvg-id="colorsrishtey.in" tvg-name="IN : Colors Rishtey TV" tvg-logo="" group-title="INDIAN SD",IN : Colors Rishtey TV
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/241.ts
+#EXTINF:-1 tvg-id="foodfood.in" tvg-name="IN: Food Food" tvg-logo="" group-title="INDIAN SD",IN: Food Food
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/250.ts
+#EXTINF:-1 tvg-id="ts175" tvg-name="IN: ZEE Bollywood" tvg-logo="" group-title="INDIAN SD",IN: ZEE Bollywood
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/966.ts
+#EXTINF:-1 tvg-id="zeeaction.in" tvg-name="IN: Zee Action" tvg-logo="" group-title="INDIAN SD",IN: Zee Action
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/967.ts
+#EXTINF:-1 tvg-id="ts7" tvg-name="IN : B4U Movies" tvg-logo="" group-title="INDIAN SD",IN : B4U Movies
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/968.ts
+#EXTINF:-1 tvg-id="ts840" tvg-name="IN: STAR GOLD ROMANCE" tvg-logo="" group-title="INDIAN SD",IN: STAR GOLD ROMANCE
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/972.ts
+#EXTINF:-1 tvg-id="ts120" tvg-name="IN: SONY MAX 2" tvg-logo="" group-title="INDIAN SD",IN: SONY MAX 2
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/973.ts
+#EXTINF:-1 tvg-id="ts731" tvg-name="IN: MANORANJAN TV" tvg-logo="" group-title="INDIAN SD",IN: MANORANJAN TV
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/2433.ts
+#EXTINF:-1 tvg-id="ts8" tvg-name="IN: STAR PLUS" tvg-logo="" group-title="INDIAN SD",IN: STAR PLUS
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/3744.ts
+#EXTINF:-1 tvg-id="ts1218" tvg-name="IN:  DD National HD" tvg-logo="" group-title="INDIAN SD",IN:  DD National HD
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/4037.ts
+#EXTINF:-1 tvg-id="ddbihar.in" tvg-name="IN:  DD Bihar" tvg-logo="" group-title="INDIAN SD",IN:  DD Bihar
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/4038.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN: DD India" tvg-logo="" group-title="INDIAN SD",IN: DD India
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/4039.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN: DD Bharati" tvg-logo="" group-title="INDIAN SD",IN: DD Bharati
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/4040.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN:  DD Kashir" tvg-logo="" group-title="INDIAN SD",IN:  DD Kashir
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/4041.ts
+#EXTINF:-1 tvg-id="ddkisan.in" tvg-name="IN: DD Kisan" tvg-logo="" group-title="INDIAN SD",IN: DD Kisan
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/4042.ts
+#EXTINF:-1 tvg-id="ddsports.in" tvg-name="IN:  DD Sports (4K)" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="INDIAN SD",IN:  DD Sports (4K)
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/4044.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN:  DD India" tvg-logo="" group-title="INDIAN SD",IN:  DD India
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/4045.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN:  DD Uttar Pradesh" tvg-logo="" group-title="INDIAN SD",IN:  DD Uttar Pradesh
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/4048.ts
+#EXTINF:-1 tvg-id="ddsahyadri.in" tvg-name="IN:  DD Sahayadri" tvg-logo="" group-title="INDIAN SD",IN:  DD Sahayadri
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/4050.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Salam" tvg-logo="" group-title="INDIAN SD",IN: Zee Salam
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/4065.ts
+#EXTINF:-1 tvg-id="sonywah.in" tvg-name="IN: SONY WAH" tvg-logo="" group-title="INDIAN SD",IN: SONY WAH
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/4077.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN: EPIC HD" tvg-logo="" group-title="INDIAN SD",IN: EPIC HD
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/4085.ts
+#EXTINF:-1 tvg-id="stargoldhd2.in" tvg-name="IN: Star_Gold_2" tvg-logo="" group-title="INDIAN SD",IN: Star_Gold_2
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/4324.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN: Discovery Science Hindi" tvg-logo="" group-title="INDIAN SD",IN: Discovery Science Hindi
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/4745.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN:  Animal_Planet_Hindi" tvg-logo="" group-title="INDIAN SD",IN:  Animal_Planet_Hindi
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/5249.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN:  Discovery_Channel_Hindi" tvg-logo="" group-title="INDIAN SD",IN:  Discovery_Channel_Hindi
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/5250.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Pal" tvg-logo="" group-title="INDIAN SD",IN: Sony Pal
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/6627.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Classic" tvg-logo="" group-title="INDIAN SD",IN: Zee Classic
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/7064.ts
+#EXTINF:-1 tvg-id="zeeanmolcinema.in" tvg-name="IN: Zee Anmol Cinema" tvg-logo="" group-title="INDIAN SD",IN: Zee Anmol Cinema
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/7065.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN: India TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/India_TV.png" group-title="INDIAN SD",IN: India TV
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/7432.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Hindustan" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_SANGAM.png" group-title="INDIAN SD",IN: Zee Hindustan
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/7720.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN: E24" tvg-logo="" group-title="INDIAN SD",IN: E24
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/9487.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN: SONY HD" tvg-logo="" group-title="INDIAN SD",IN: SONY HD
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/9885.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN: Food Food" tvg-logo="" group-title="INDIAN SD",IN: Food Food
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/9975.ts
+#EXTINF:-1 tvg-id="ts1276" tvg-name="IN: INVESTIGATION DISCOVERY (4K)" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="INDIA DOCUMENTARY",IN: INVESTIGATION DISCOVERY (4K)
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/23790.ts
+#EXTINF:-1 tvg-id="discoveryturbo.in" tvg-name="IN:  Discovery Turbo" tvg-logo="https://banner2.cleanpng.com/20180704/hty/kisspng-discovery-turbo-television-channel-discovery-chann-rua-gabriel-oeschler-5b3cb4edd44231.0893172215307051338694.jpg" group-title="INDIAN SD",IN:  Discovery Turbo
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/23917.ts
+#EXTINF:-1 tvg-id="" tvg-name="DANGAL" tvg-logo="" group-title="INDIAN SD",DANGAL
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/53107.ts
+#EXTINF:-1 tvg-id="starutsav.in" tvg-name="IN: Star Utsav" tvg-logo="http://stariptv.fun/logos/Star_utsav.png" group-title="INDIAN SD",IN: Star Utsav
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/158970.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN: DD Urdu" tvg-logo="" group-title="INDIAN SD",IN: DD Urdu
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/257048.ts
+#EXTINF:-1 tvg-id="sanskartv.in" tvg-name="IN: Sanskar TV HD" tvg-logo="" group-title="INDIAN SD",IN: Sanskar TV HD
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/257656.ts
+#EXTINF:-1 tvg-id="colorstamilhd.in" tvg-name="TM: COLOR TAMIL HD" tvg-logo="https://i.ibb.co/pKVnvdc/images.png" group-title="TAMIL | ENTERTAINMENT",TM: COLOR TAMIL HD
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/57.ts
+#EXTINF:-1 tvg-id="vijayhd.in" tvg-name="TM: STAR VIJAY HD" tvg-logo="https://i.ibb.co/tbmmZY7/download-14.png" group-title="TAMIL | ENTERTAINMENT",TM: STAR VIJAY HD
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/157.ts
+#EXTINF:-1 tvg-id="suntvhd.in" tvg-name="TM: SUN TV HD" tvg-logo="https://i.ibb.co/QmNNQTY/1000x1000-Sun-TVHDDolby-Vision-155535-2312f9df-92b3-48dc-bd0d-761bd9c68a9c.png" group-title="TAMIL | ENTERTAINMENT",TM: SUN TV HD
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/158.ts
+#EXTINF:-1 tvg-id="sunmusichd.in" tvg-name="TM: SUN MUSIC HD" tvg-logo="https://i.ibb.co/K67xjsm/sun-music-HD-black.png" group-title="TAMIL | ENTERTAINMENT",TM: SUN MUSIC HD
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/159.ts
+#EXTINF:-1 tvg-id="ktvhd.in" tvg-name="TM: KTV HD" tvg-logo="https://i.ibb.co/pnHyfBX/download-6.png" group-title="TAMIL | MOVIES",TM: KTV HD
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/160.ts
+#EXTINF:-1 tvg-id="jaya.in" tvg-name="TM: JAYA TV (4K)" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="TAMIL | ENTERTAINMENT",TM: JAYA TV (4K)
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/188.ts
+#EXTINF:-1 tvg-id="ts282" tvg-name="TM: ANGEL TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/95/Logo_of_Angel_TV.png" group-title="TAMIL | ENTERTAINMENT",TM: ANGEL TV HD
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/189.ts
+#EXTINF:-1 tvg-id="sonybbcearthhd.in" tvg-name="TM: SONY BBC EARTH HD" tvg-logo="https://i.ibb.co/m4CDwpf/SONY-BBC-EARTH.png" group-title="TAMIL | ENTERTAINMENT",TM: SONY BBC EARTH HD
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/222.ts
+#EXTINF:-1 tvg-id="zeetamilhd.in" tvg-name="TM: ZEE TAMIL" tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Zee-Tamil-HD-Logo.png" group-title="TAMIL | ENTERTAINMENT",TM: ZEE TAMIL
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/225.ts
+#EXTINF:-1 tvg-id="polimernews.in" tvg-name="TM: POLIMER NEWS" tvg-logo="https://i.ibb.co/SPNHpqd/POLIMER-NEWS.png" group-title="TAMIL | NEWS",TM: POLIMER NEWS
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/237.ts
+#EXTINF:-1 tvg-id="jayamax.in" tvg-name="TM: JAYA MAX" tvg-logo="https://i.ibb.co/mFLk9yN/download-13.png" group-title="TAMIL | ENTERTAINMENT",TM: JAYA MAX
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/240.ts
+#EXTINF:-1 tvg-id="sunlife.in" tvg-name="TM: SUN LIFE" tvg-logo="https://i.ibb.co/YcpHPJD/download-14.png" group-title="TAMIL | ENTERTAINMENT",TM: SUN LIFE
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/1612.ts
+#EXTINF:-1 tvg-id="sunnews.in" tvg-name="TM: SUN NEWS" tvg-logo="https://seeklogo.com/images/S/sun-news-logo-107E32491A-seeklogo.com.png" group-title="TAMIL | NEWS",TM: SUN NEWS
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/1613.ts
+#EXTINF:-1 tvg-id="vijaysuper.in" tvg-name="TM: VIJAY SUPER (4K)" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="TAMIL | MOVIES",TM: VIJAY SUPER (4K)
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/1614.ts
+#EXTINF:-1 tvg-id="jayaplus.in" tvg-name="TM: JAYA PLUS" tvg-logo="https://i.ibb.co/DgSD9Ry0/images-1.png" group-title="TAMIL | ENTERTAINMENT",TM: JAYA PLUS
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/1615.ts
+#EXTINF:-1 tvg-id="rajdigitalplus.in" tvg-name="TM: RAJ DIGITAL PLUS" tvg-logo="https://i.ibb.co/Xxf6xNq/download-4.png" group-title="TAMIL | ENTERTAINMENT",TM: RAJ DIGITAL PLUS
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/1616.ts
+#EXTINF:-1 tvg-id="polimertv.in" tvg-name="TM: POLIMER TV" tvg-logo="https://i.ibb.co/dPbtD7b/download-12.png" group-title="TAMIL | ENTERTAINMENT",TM: POLIMER TV
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/1617.ts
+#EXTINF:-1 tvg-id="" tvg-name="TM: JAYA MOVIES" tvg-logo="" group-title="TAMIL | MOVIES",TM: JAYA MOVIES
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/1618.ts
+#EXTINF:-1 tvg-id="rajtv.in" tvg-name="TM: RAJ TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/40/Raj_TV_Tamil.png" group-title="TAMIL | ENTERTAINMENT",TM: RAJ TV
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/1619.ts
+#EXTINF:-1 tvg-id="vendhartv.in" tvg-name="TM: VENDHAR TV" tvg-logo="https://i.ibb.co/pv2fbyf/download-21.png" group-title="TAMIL | ENTERTAINMENT",TM: VENDHAR TV
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/1624.ts
+#EXTINF:-1 tvg-id="vijayhd.in" tvg-name="TM: VIJAY TV HD" tvg-logo="https://i.ibb.co/tbmmZY7/download-14.png" group-title="TAMIL | ENTERTAINMENT",TM: VIJAY TV HD
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/1634.ts
+#EXTINF:-1 tvg-id="ts38" tvg-name="TM: AASTHA TAMIL HD" tvg-logo="https://i.ibb.co/mhk9HzK/download-11.png" group-title="TAMIL",TM: AASTHA TAMIL HD
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/5877.ts
+#EXTINF:-1 tvg-id="zeecinemaindiahd.in" tvg-name="TM: ANGEL TV HD" tvg-logo="https://i.ibb.co/cwmmfBj/download-2-1.png" group-title="TAMIL | ENTERTAINMENT",TM: ANGEL TV HD
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/5881.ts
+#EXTINF:-1 tvg-id="ts282" tvg-name="TM: ANGEL TV HD" tvg-logo="https://i.ibb.co/cwmmfBj/download-2-1.png" group-title="TAMIL | ENTERTAINMENT",TM: ANGEL TV HD
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/5882.ts
+#EXTINF:-1 tvg-id="ts282" tvg-name="TM: ANGEL TV HD" tvg-logo="https://i.ibb.co/cwmmfBj/download-2-1.png" group-title="TAMIL | ENTERTAINMENT",TM: ANGEL TV HD
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/5883.ts
+#EXTINF:-1 tvg-id="colorstamilhd.in" tvg-name="TM: COLORS TAMIL HD" tvg-logo="https://i.ibb.co/pKVnvdc/images.png" group-title="TAMIL | ENTERTAINMENT",TM: COLORS TAMIL HD
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/5886.ts
+#EXTINF:-1 tvg-id="ddpodhigai.in" tvg-name="TM: DD PODHIGAI" tvg-logo="https://i.ibb.co/YfDd0rN/download-33.png" group-title="TAMIL",TM: DD PODHIGAI
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/5887.ts
+#EXTINF:-1 tvg-id="jaya.in" tvg-name="TM: JAYA TV" tvg-logo="https://www.logolynx.com/images/logolynx/2d/2da9869ee753c8bbaf5e5b7923d96c67.png" group-title="TAMIL | ENTERTAINMENT",TM: JAYA TV
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/5895.ts
+#EXTINF:-1 tvg-id="" tvg-name="TM: Kalaignar TV News" tvg-logo="https://i.ibb.co/XysbPp9/download-3-1.png" group-title="TAMIL | NEWS",TM: Kalaignar TV News
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/5897.ts
+#EXTINF:-1 tvg-id="ktvhd.in" tvg-name="TM: KTV HD" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/ktv-HD-white.png" group-title="TAMIL | MOVIES",TM: KTV HD
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/5900.ts
+#EXTINF:-1 tvg-id="madhatv.in" tvg-name="TM: MADHA TV" tvg-logo="https://i.ibb.co/YfchHZF/download-7.png" group-title="TAMIL | ENTERTAINMENT",TM: MADHA TV
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/5902.ts
+#EXTINF:-1 tvg-id="makkaltv.in" tvg-name="TM: MAKKAL TV HD" tvg-logo="https://i.ibb.co/VttxdD7/download-8.png" group-title="TAMIL | ENTERTAINMENT",TM: MAKKAL TV HD
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/5903.ts
+#EXTINF:-1 tvg-id="news18tamilnadu.in" tvg-name="TM: NEWS 18 TAMIL NADU HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ef/News18_tamilnadu_logo.png/revision/latest/scale-to-width-down/170?cb=20191220041016" group-title="TAMIL | NEWS",TM: NEWS 18 TAMIL NADU HD
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/5906.ts
+#EXTINF:-1 tvg-id="ts448" tvg-name="TM: NEWS 7 TAMIL HD" tvg-logo="" group-title="TAMIL | NEWS",TM: NEWS 7 TAMIL HD
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/5907.ts
+#EXTINF:-1 tvg-id="newsj.in" tvg-name="TM: NEWS J" tvg-logo="" group-title="TAMIL | NEWS",TM: NEWS J
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/5908.ts
+#EXTINF:-1 tvg-id="pepperstv.in" tvg-name="TM: PEPPERS TV" tvg-logo="" group-title="TAMIL | ENTERTAINMENT",TM: PEPPERS TV
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/5909.ts
+#EXTINF:-1 tvg-id="puthiyathalaimurai.in" tvg-name="TM: PUTHIYA THALAIMURAI TV HD" tvg-logo="" group-title="TAMIL | ENTERTAINMENT",TM: PUTHIYA THALAIMURAI TV HD
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/5910.ts
+#EXTINF:-1 tvg-id="polimernews.in" tvg-name="TM: POLIMER NEWS" tvg-logo="" group-title="TAMIL | NEWS",TM: POLIMER NEWS
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/5911.ts
+#EXTINF:-1 tvg-id="" tvg-name="TM: PUTHU YUGAmM TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/Puthuyugam_TV.gif" group-title="TAMIL | ENTERTAINMENT",TM: PUTHU YUGAmM TV
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/5912.ts
+#EXTINF:-1 tvg-id="rajtv.in" tvg-name="TM: RAJ TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/40/Raj_TV_Tamil.png" group-title="TAMIL | ENTERTAINMENT",TM: RAJ TV HD
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/5913.ts
+#EXTINF:-1 tvg-id="starvijay.in" tvg-name="TM: STAR VIJAY HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Star_Vijay_HD_2017-0.png/revision/latest/scale-to-width-down/250?cb=20190715142233" group-title="TAMIL | ENTERTAINMENT",TM: STAR VIJAY HD
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/5915.ts
+#EXTINF:-1 tvg-id="vijayhd.in" tvg-name="TM: STAR VIJAY INDIA FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Star_Vijay_HD_2017-0.png/revision/latest/scale-to-width-down/250?cb=20190715142233" group-title="TAMIL | ENTERTAINMENT",TM: STAR VIJAY INDIA FHD
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/5916.ts
+#EXTINF:-1 tvg-id="vijayhd.in" tvg-name="TM: STAR VIJAY HD (Vip)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Star_Vijay_HD_2017-0.png/revision/latest/scale-to-width-down/250?cb=20190715142233" group-title="TAMIL | ENTERTAINMENT",TM: STAR VIJAY HD (Vip)
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/5917.ts
+#EXTINF:-1 tvg-id="sunlife.in" tvg-name="TM: SUN LIFE HD" tvg-logo="" group-title="TAMIL | ENTERTAINMENT",TM: SUN LIFE HD
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/5918.ts
+#EXTINF:-1 tvg-id="sunlife.in" tvg-name="TM: SUN LIFE HD" tvg-logo="http://2.bp.blogspot.com/-UhBQgmp7gyI/UCkbz25X2OI/AAAAAAAAA70/DbPoAqxWOB4/s1600/sun_life_manisat_com.png" group-title="TAMIL | ENTERTAINMENT",TM: SUN LIFE HD
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/5919.ts
+#EXTINF:-1 tvg-id="sunmusichd.in" tvg-name="TM: SUN MUSIC HD VIP (USA)" tvg-logo="" group-title="TAMIL | ENTERTAINMENT",TM: SUN MUSIC HD VIP (USA)
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/5920.ts
+#EXTINF:-1 tvg-id="suntvhd.in" tvg-name="TM: SUN TV HD" tvg-logo="" group-title="TAMIL | ENTERTAINMENT",TM: SUN TV HD
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/5921.ts
+#EXTINF:-1 tvg-id="suntvhd.in" tvg-name="TM: SUN TV HD" tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Sun-TV-HD-Logo.png" group-title="TAMIL | ENTERTAINMENT",TM: SUN TV HD
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/5922.ts
+#EXTINF:-1 tvg-id="suntvhd.in" tvg-name="TM: SUN TV HD " tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Sun-TV-HD-Logo.png" group-title="TAMIL | ENTERTAINMENT",TM: SUN TV HD 
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/5923.ts
+#EXTINF:-1 tvg-id="sunnews.in" tvg-name="TM: SUN NEWS" tvg-logo="" group-title="TAMIL | NEWS",TM: SUN NEWS
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/5924.ts
+#EXTINF:-1 tvg-id="zeetamilhd.in" tvg-name="TM: ZEE TAMIL HD (USA)" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png" group-title="TAMIL | ENTERTAINMENT",TM: ZEE TAMIL HD (USA)
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/5930.ts
+#EXTINF:-1 tvg-id="vendhartv.in" tvg-name="TM: VENDHAR TV HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Vendhar_TV.png" group-title="TAMIL | ENTERTAINMENT",TM: VENDHAR TV HD
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/5931.ts
+#EXTINF:-1 tvg-id="sirippoli.in" tvg-name="TM: SIRIPPOLI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/Sirippoli_tv.jpg" group-title="TAMIL | MOVIES",TM: SIRIPPOLI TV
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/5932.ts
+#EXTINF:-1 tvg-id="kalaignartv.in" tvg-name="TM: KALAIGNAR TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kalaignar_TV.png" group-title="TAMIL | ENTERTAINMENT",TM: KALAIGNAR TV
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/9018.ts
+#EXTINF:-1 tvg-id="adithyatv.in" tvg-name="TM: ADITYA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Adithya_TV.jpg/revision/latest?cb=20180318045832" group-title="TAMIL | MOVIES",TM: ADITYA TV
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/9019.ts
+#EXTINF:-1 tvg-id="vasanthtv.in" tvg-name="TM: VASANTH TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Vasanth_TV.png" group-title="TAMIL | ENTERTAINMENT",TM: VASANTH TV
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/9020.ts
+#EXTINF:-1 tvg-id="jmovie.in" tvg-name="TM: J MOVIES" tvg-logo="https://www.dishpromotions.com/wp-content/uploads/JMOV-logo.png" group-title="TAMIL | MOVIES",TM: J MOVIES
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/9022.ts
+#EXTINF:-1 tvg-id="ts391" tvg-name="TM: MALAI MURASU TV" tvg-logo="" group-title="TAMIL | ENTERTAINMENT",TM: MALAI MURASU TV
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/9023.ts
+#EXTINF:-1 tvg-id="ts425" tvg-name="TM: RAJ MUSIX TAMIL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/57/Raj_Musix_Tamil.jpeg/revision/latest?cb=20191227071716" group-title="TAMIL | ENTERTAINMENT",TM: RAJ MUSIX TAMIL
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/9024.ts
+#EXTINF:-1 tvg-id="travelxptamil.in" tvg-name="TAMIL: TRAVEL XP " tvg-logo="" group-title="TAMIL | ENTERTAINMENT",TAMIL: TRAVEL XP 
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/9972.ts
+#EXTINF:-1 tvg-id="ts840" tvg-name="TAMIL: VIJAY MUSIC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/19/Vijay_musicBig.png/revision/latest?cb=20200217033512" group-title="TAMIL | ENTERTAINMENT",TAMIL: VIJAY MUSIC
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/23869.ts
+#EXTINF:-1 tvg-id="discoverytamil.in" tvg-name="Tamil: D TAMIL" tvg-logo="" group-title="TAMIL | ENTERTAINMENT",Tamil: D TAMIL
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/26162.ts
+#EXTINF:-1 tvg-id="mega24.in" tvg-name="Tamil: MEGA 24" tvg-logo="" group-title="TAMIL | MOVIES",Tamil: MEGA 24
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/26163.ts
+#EXTINF:-1 tvg-id="megamusiq.in" tvg-name="Tamil: MEGA MUSIQ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ef/Mega_Musiq.jpeg/revision/latest/scale-to-width-down/250?cb=20191224093201" group-title="TAMIL | ENTERTAINMENT",Tamil: MEGA MUSIQ
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/26164.ts
+#EXTINF:-1 tvg-id="isaiaruvi.in" tvg-name="Tamil: ISAI ARUVI" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Isai_Aruvi.jpeg/revision/latest/smart/width/250/height/250?cb=20191224121230" group-title="TAMIL | ENTERTAINMENT",Tamil: ISAI ARUVI
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/26165.ts
+#EXTINF:-1 tvg-id="ts37" tvg-name="Tamil: MEGA TV" tvg-logo="" group-title="TAMIL | ENTERTAINMENT",Tamil: MEGA TV
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/28141.ts
+#EXTINF:-1 tvg-id="ts411" tvg-name="TAMIL: MURASU TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Malai_Murasu.png" group-title="TAMIL | ENTERTAINMENT",TAMIL: MURASU TV
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/29086.ts
+#EXTINF:-1 tvg-id="ts477" tvg-name="TAMIL: SRI SHANKARA TAMIL" tvg-logo="" group-title="TAMIL | ENTERTAINMENT",TAMIL: SRI SHANKARA TAMIL
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/36653.ts
+#EXTINF:-1 tvg-id="" tvg-name="TAMIL: MK TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MK_TV.png" group-title="TAMIL | ENTERTAINMENT",TAMIL: MK TV
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/37451.ts
+#EXTINF:-1 tvg-id="" tvg-name="TAMIL: MK SIX" tvg-logo="" group-title="TAMIL | ENTERTAINMENT",TAMIL: MK SIX
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/37453.ts
+#EXTINF:-1 tvg-id="ts1166" tvg-name="TAMIL: CHITHIRAM" tvg-logo="" group-title="TAMIL | ENTERTAINMENT",TAMIL: CHITHIRAM
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/46743.ts
+#EXTINF:-1 tvg-id="ts521" tvg-name="TAMIL: SUN TV USA" tvg-logo="" group-title="TAMIL | ENTERTAINMENT",TAMIL: SUN TV USA
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/76343.ts
+#EXTINF:-1 tvg-id="chuttitv.in" tvg-name="Tamil: Chutti Tv" tvg-logo="" group-title="TAMIL | ENTERTAINMENT",Tamil: Chutti Tv
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/85931.ts
+#EXTINF:-1 tvg-id="thanthitv.in" tvg-name="Tamil: THANTHI TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Thanthi_TV.png" group-title="TAMIL | ENTERTAINMENT",Tamil: THANTHI TV
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/111034.ts
+#EXTINF:-1 tvg-id="ts797" tvg-name="TAMIL: Zee Thirai" tvg-logo="" group-title="TAMIL | MOVIES",TAMIL: Zee Thirai
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/144636.ts
+#EXTINF:-1 tvg-id="srisankaratv.in" tvg-name="Tamil : Sri Sankara TV" tvg-logo="" group-title="TAMIL | ENTERTAINMENT",Tamil : Sri Sankara TV
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/153205.ts
+#EXTINF:-1 tvg-id="ts968" tvg-name="TAMIL: News Tamil 24x7" tvg-logo="https://www.lyngsat.com/logo/tv/nn/news-tamil-24x7-in.png" group-title="TAMIL | NEWS",TAMIL: News Tamil 24x7
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/160589.ts
+#EXTINF:-1 tvg-id="starmaahd.in" tvg-name="Telugu: STAR MAA TV HD" tvg-logo="https://i.ibb.co/yn807cB/download-21.png" group-title="TELUGU",Telugu: STAR MAA TV HD
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/168.ts
+#EXTINF:-1 tvg-id="ts320" tvg-name="Telugu: TV 5 News" tvg-logo="https://i.ibb.co/F3y8k7t/download-22.png" group-title="TELUGU",Telugu: TV 5 News
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/170.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telugu: Gemini_Movies_HD" tvg-logo="https://i.ibb.co/VqQ1bBm/download-3.png" group-title="TELUGU",Telugu: Gemini_Movies_HD
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/212.ts
+#EXTINF:-1 tvg-id="ts363" tvg-name="Telugu: Gemini_Music_HD" tvg-logo="https://i.ibb.co/vkJr9Cn/download-1-1.png" group-title="TELUGU",Telugu: Gemini_Music_HD
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/213.ts
+#EXTINF:-1 tvg-id="geminitvhd.in" tvg-name="Telugu: Gemini_TV_HD" tvg-logo="https://i.ibb.co/SKJQvqR/Gemini-TV.png" group-title="TELUGU",Telugu: Gemini_TV_HD
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/214.ts
+#EXTINF:-1 tvg-id="ts460" tvg-name="Telugu: Sony_BBC_Earth_HD_Telugu" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTT9j-h-4CiDAqFZA2ijrp4jj8dPM10fve8GA&usqp=CAU" group-title="TELUGU",Telugu: Sony_BBC_Earth_HD_Telugu
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/223.ts
+#EXTINF:-1 tvg-id="v6telugu.in" tvg-name="Telugu:  V6_News" tvg-logo="https://i.ibb.co/pZ891Tj/download-4-1.png" group-title="TELUGU",Telugu:  V6_News
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/228.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telugu:  Sri_Venkateshwar_Bhakti" tvg-logo="https://i.ibb.co/c2Rn5ss/download-26.png" group-title="TELUGU",Telugu:  Sri_Venkateshwar_Bhakti
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/233.ts
+#EXTINF:-1 tvg-id="abnandhrajyothy.in" tvg-name="Telugu:  ABN_Andhra_Jyothi" tvg-logo="https://i.ibb.co/9snympp/images-1.png" group-title="TELUGU",Telugu:  ABN_Andhra_Jyothi
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/234.ts
+#EXTINF:-1 tvg-id="ts160" tvg-name="Telugu: NTV TELUGU" tvg-logo="https://i.ibb.co/RDK2ZtJ/download-2-3.png" group-title="TELUGU",Telugu: NTV TELUGU
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/235.ts
+#EXTINF:-1 tvg-id="etvplus.in" tvg-name="Telugu: ETV Plus" tvg-logo="https://i.ibb.co/7VdZqgH/download-2-2.png" group-title="TELUGU",Telugu: ETV Plus
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/242.ts
+#EXTINF:-1 tvg-id="rajmusixtelugu.in" tvg-name="IN: Raj Music Telugu" tvg-logo="" group-title="TELUGU",IN: Raj Music Telugu
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/243.ts
+#EXTINF:-1 tvg-id="ts585" tvg-name="Telugu: Vissa TV" tvg-logo="https://i.ibb.co/1RMqwkk/download-3.png" group-title="TELUGU",Telugu: Vissa TV
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/244.ts
+#EXTINF:-1 tvg-id="zeeteluguhd.in" tvg-name="Telugu: Zee Telugu HD" tvg-logo="https://i.ibb.co/9336p4j/download.png" group-title="TELUGU",Telugu: Zee Telugu HD
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/1605.ts
+#EXTINF:-1 tvg-id="ddsaptagiri.in" tvg-name="Telugu: DD Saptagiri" tvg-logo="https://i.ibb.co/Lk5p3Zc/download-27.png" group-title="TELUGU",Telugu: DD Saptagiri
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/4053.ts
+#EXTINF:-1 tvg-id="ts957" tvg-name="Telugu: STAR MAA MOVIES HD" tvg-logo="https://i.ibb.co/72grYNk/Star-maa-logo-2023.png" group-title="TELUGU",Telugu: STAR MAA MOVIES HD
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/9015.ts
+#EXTINF:-1 tvg-id="ts636" tvg-name="Telugu: Zee Cinemalu HD" tvg-logo="https://i.ibb.co/jhL5mtq/download.png" group-title="TELUGU",Telugu: Zee Cinemalu HD
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/9016.ts
+#EXTINF:-1 tvg-id="etvhd.in" tvg-name="Telugu: Etv HD" tvg-logo="https://i.ibb.co/r3vmJq9/download-4.png" group-title="TELUGU",Telugu: Etv HD
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/9017.ts
+#EXTINF:-1 tvg-id="ts840" tvg-name="Telugu: GEMINI COMEDY HD" tvg-logo="https://i.ibb.co/CQhttzT/download-25.png" group-title="TELUGU",Telugu: GEMINI COMEDY HD
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/9042.ts
+#EXTINF:-1 tvg-id="ts954" tvg-name="Telugu: STAR MAA GOLD" tvg-logo="" group-title="TELUGU",Telugu: STAR MAA GOLD
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/9043.ts
+#EXTINF:-1 tvg-id="ts361" tvg-name="Telugu: GEMINI LIFE HD" tvg-logo="https://i.ibb.co/vXYWqvD/download-24.png" group-title="TELUGU",Telugu: GEMINI LIFE HD
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/9044.ts
+#EXTINF:-1 tvg-id="ts1341" tvg-name="Telugu: ETV Cinema (4K)" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="TELUGU",Telugu: ETV Cinema (4K)
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/9045.ts
+#EXTINF:-1 tvg-id="ts146" tvg-name="Telugu: ETV AndhraPradesh" tvg-logo="https://i.ibb.co/r3vmJq9/download-4.png" group-title="TELUGU",Telugu: ETV AndhraPradesh
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/9046.ts
+#EXTINF:-1 tvg-id="ts11" tvg-name="Telugu: TV9 NEWS HD" tvg-logo="https://i.ibb.co/N3twTsx/download-3-2.png" group-title="TELUGU",Telugu: TV9 NEWS HD
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/9047.ts
+#EXTINF:-1 tvg-id="ts596" tvg-name="Telugu: Sakshi TV (News)" tvg-logo="https://i.ibb.co/DwR6K3W/download-28.png" group-title="TELUGU",Telugu: Sakshi TV (News)
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/9048.ts
+#EXTINF:-1 tvg-id="ts49" tvg-name="Telugu: T News HD" tvg-logo="https://i.ibb.co/1Ttjk2f/download-20.png" group-title="TELUGU",Telugu: T News HD
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/9049.ts
+#EXTINF:-1 tvg-id="ts83" tvg-name="Telugu: ETV Telangana" tvg-logo="https://i.ibb.co/wrtbTfN/download-19.png" group-title="TELUGU",Telugu: ETV Telangana
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/9050.ts
+#EXTINF:-1 tvg-id="ts268" tvg-name="Telugu: ETV Life" tvg-logo="" group-title="TELUGU",Telugu: ETV Life
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/9052.ts
+#EXTINF:-1 tvg-id="etvabhiruchi.in" tvg-name="Telugu: ETV Abhiruchi" tvg-logo="https://i.ibb.co/nr1Kz3J/download-5.png" group-title="TELUGU",Telugu: ETV Abhiruchi
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/9053.ts
+#EXTINF:-1 tvg-id="svbc.in" tvg-name="Telugu: SVBC HD" tvg-logo="https://i.ibb.co/qjCHLvw/download-2.png" group-title="TELUGU",Telugu: SVBC HD
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/9054.ts
+#EXTINF:-1 tvg-id="bhaktitv.in" tvg-name="Telugu: BHAKTI TV" tvg-logo="https://i.ibb.co/XbJL5xt/download-1-1.png" group-title="TELUGU",Telugu: BHAKTI TV
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/34581.ts
+#EXTINF:-1 tvg-id="ts430" tvg-name="TELUGU:  RAJ NEWS" tvg-logo="https://i.ibb.co/xMfFBH4/download-2.png" group-title="TELUGU",TELUGU:  RAJ NEWS
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/52504.ts
+#EXTINF:-1 tvg-id="ts389" tvg-name="TELUGU: Star Maa Music" tvg-logo="" group-title="TELUGU",TELUGU: Star Maa Music
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/57772.ts
+#EXTINF:-1 tvg-id="asianetnews.in" tvg-name="MAL | ASIANET NEWS" tvg-logo="https://static.epg.best/in/AsianetNews.in.png" group-title="MALAYALAM | NEWS",MAL | ASIANET NEWS
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/165.ts
+#EXTINF:-1 tvg-id="asianethd.in" tvg-name="MY: Asianet HD" tvg-logo="https://i.ibb.co/v3CjsWg/download-1-2.png" group-title="MALAYALAM | ENTRTNMNT",MY: Asianet HD
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/166.ts
+#EXTINF:-1 tvg-id="kaumudytv.in" tvg-name="MAL | KAUMUDY TV HD" tvg-logo="https://static.epg.best/in/KaumudyTV.in.png" group-title="MALAYALAM | MOVIES",MAL | KAUMUDY TV HD
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/169.ts
+#EXTINF:-1 tvg-id="jaihindtv.in" tvg-name="MAL | JAI HIND TV HD" tvg-logo="https://i.ibb.co/L61yfSs/Jaihind-TV-Logo.png" group-title="MALAYALAM | NEWS",MAL | JAI HIND TV HD
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/172.ts
+#EXTINF:-1 tvg-id="suryahd.in" tvg-name="MY: Surya_HD" tvg-logo="https://2.bp.blogspot.com/-sP7G3dIkQG8/XIIBmfHt9VI/AAAAAAAAL1w/Y6wWIEW86VQI2dAb98pX2gI9tvDh5pAJACLcBGAs/s1600/Surya_HD.png" group-title="MALAYALAM | ENTRTNMNT",MY: Surya_HD
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/193.ts
+#EXTINF:-1 tvg-id="mazhavilmanoramahd.in" tvg-name="MAL | MANORAMA NEWS" tvg-logo="https://static.epg.best/in/ManoramaNews.in.png" group-title="MALAYALAM | NEWS",MAL | MANORAMA NEWS
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/226.ts
+#EXTINF:-1 tvg-id="rajmusixmalayalam.in" tvg-name="MY: Raj Music Malayalam" tvg-logo="https://www.lyngsat.com/logo/tv/rr/raj-musix-malayalam-in.png" group-title="MALAYALAM | SONGS",MY: Raj Music Malayalam
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/245.ts
+#EXTINF:-1 tvg-id="news24.in" tvg-name="MAL | NEWS 24" tvg-logo="https://www.twentyfournews.com/wp-content/themes/nextline_v3/images/logo-new.png" group-title="MALAYALAM | NEWS",MAL | NEWS 24
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/248.ts
+#EXTINF:-1 tvg-id="mazhavilmanorama.in" tvg-name="MAL | MANORAMA NEWS ᴴᴰ" tvg-logo="https://static.epg.best/in/ManoramaNews.in.png" group-title="MALAYALAM | NEWS",MAL | MANORAMA NEWS ᴴᴰ
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/249.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY: Power Vesion Malayalam" tvg-logo="https://www.lyngsat.com/logo/tv/pp/powervision_tv_in.png" group-title="MALAYALAM | ENTRTNMNT",MY: Power Vesion Malayalam
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/252.ts
+#EXTINF:-1 tvg-id="ddmalayalam.in" tvg-name="MAL | DD MALAYALAM ᴴᴰ" tvg-logo="https://static.epg.best/in/DDMalayalam.in.png" group-title="MALAYALAM | NEWS",MAL | DD MALAYALAM ᴴᴰ
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/4051.ts
+#EXTINF:-1 tvg-id="safaritv.in" tvg-name="MY: SAFARI TV" tvg-logo="https://i.ibb.co/1bvStm3/unnamed.png" group-title="MALAYALAM | ENTRTNMNT",MY: SAFARI TV
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/4067.ts
+#EXTINF:-1 tvg-id="zeekeralam.in" tvg-name="MY: ZEE KERALAM" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Zee-Keralam-HD.png" group-title="MALAYALAM | ENTRTNMNT",MY: ZEE KERALAM
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/4226.ts
+#EXTINF:-1 tvg-id="kairalitv.in" tvg-name="MY: Kairali HD" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kairali_in.png" group-title="MALAYALAM | ENTRTNMNT",MY: Kairali HD
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/9026.ts
+#EXTINF:-1 tvg-id="asianetplus.in" tvg-name="MY: Asianet Plus" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Asianet-Plus.png" group-title="MALAYALAM | ENTRTNMNT",MY: Asianet Plus
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/9027.ts
+#EXTINF:-1 tvg-id="amritatv.in" tvg-name="MY: Amrita TV" tvg-logo="https://www.lyngsat.com/logo/tv/aa/amrita_tv.png" group-title="MALAYALAM | ENTRTNMNT",MY: Amrita TV
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/9028.ts
+#EXTINF:-1 tvg-id="janamtv.in" tvg-name="MAL | JANAM TV" tvg-logo="https://static.epg.best/in/JanamTV.in.png" group-title="MALAYALAM | NEWS",MAL | JANAM TV
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/9029.ts
+#EXTINF:-1 tvg-id="flowers.in" tvg-name="MY: Flowers TV" tvg-logo="https://i.ibb.co/YZ59Jtx/download-3-1.png" group-title="MALAYALAM | ENTRTNMNT",MY: Flowers TV
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/9030.ts
+#EXTINF:-1 tvg-id="asianetmovies.in" tvg-name="MAL | ASIANET MOVIES  SD" tvg-logo="https://static.epg.best/in/AsianetMovies.in.png" group-title="MALAYALAM | MOVIES",MAL | ASIANET MOVIES  SD
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/9031.ts
+#EXTINF:-1 tvg-id="mathrubhuminews.in" tvg-name="MAL | MATHRUBHUMI NEWS HD" tvg-logo="https://static.epg.best/in/Mathrubhumi%20News.in.png" group-title="MALAYALAM | NEWS",MAL | MATHRUBHUMI NEWS HD
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/9032.ts
+#EXTINF:-1 tvg-id="suryacomedy.in" tvg-name="MY: SURYA COMEDY HD" tvg-logo="http://stariptv.fun/logos/Surya_Comedy.png" group-title="MALAYALAM | ENTRTNMNT",MY: SURYA COMEDY HD
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/9033.ts
+#EXTINF:-1 tvg-id="suryamovies.in" tvg-name="MAL | SURYA MOVIES HD" tvg-logo="https://static.epg.best/in/SuryaMovies.in.png" group-title="MALAYALAM | MOVIES",MAL | SURYA MOVIES HD
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/9034.ts
+#EXTINF:-1 tvg-id="mediaone.in" tvg-name="MAL | MEDIA ONE" tvg-logo="https://static.epg.best/in/MediaOne.in.png" group-title="MALAYALAM | NEWS",MAL | MEDIA ONE
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/9035.ts
+#EXTINF:-1 tvg-id="news18kerala.in" tvg-name="MAL | NEWS 18 KERALA HD" tvg-logo="https://static.epg.best/in/News18India.in.png" group-title="MALAYALAM | NEWS",MAL | NEWS 18 KERALA HD
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/9036.ts
+#EXTINF:-1 tvg-id="rajnewsmalayalam.in" tvg-name="MAL | RAJ NEWS ᴴᴰ" tvg-logo="https://static.epg.best/in/RajNewsMalayalam.in.png" group-title="MALAYALAM | NEWS",MAL | RAJ NEWS ᴴᴰ
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/9037.ts
+#EXTINF:-1 tvg-id="suryamusic.in" tvg-name="MY: SURYA MUSIC" tvg-logo="http://stariptv.fun/logos/Sura_Music.png" group-title="MALAYALAM | SONGS",MY: SURYA MUSIC
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/9038.ts
+#EXTINF:-1 tvg-id="kappatv.in" tvg-name="MY: Kappa_TV" tvg-logo="https://i.ibb.co/T1fW3qf/channels4-profile.png" group-title="MALAYALAM | SONGS",MY: Kappa_TV
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/9039.ts
+#EXTINF:-1 tvg-id="shalomtv.in" tvg-name="MY: Shalom" tvg-logo="https://i.ibb.co/mBvR25q/unnamed-1-1.png" group-title="MALAYALAM | ENTRTNMNT",MY: Shalom
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/9040.ts
+#EXTINF:-1 tvg-id="kochutv.in" tvg-name="MY: Kochu TV" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_kochu_tv_in.png" group-title="MALAYALAM | ENTRTNMNT",MY: Kochu TV
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/37450.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY: WE TV" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kairali_in_we.png" group-title="MALAYALAM | ENTRTNMNT",MY: WE TV
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/53199.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAL | REPORTER NEWS" tvg-logo="https://i.pinimg.com/originals/2f/0f/f5/2f0ff5736ad449034604ab0bd1046222.png" group-title="MALAYALAM | NEWS",MAL | REPORTER NEWS
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/56032.ts
+#EXTINF:-1 tvg-id="goodnesstv.in" tvg-name="MY: GoodnessTV" tvg-logo="https://www.lyngsat.com/logo/tv/gg/goodness_tv_in.png" group-title="MALAYALAM | ENTRTNMNT",MY: GoodnessTV
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/85915.ts
+#EXTINF:-1 tvg-id="ts348" tvg-name="MY: Harvest24x7" tvg-logo="https://www.lyngsat.com/logo/tv/hh/harvest-tv-24x7-in.png" group-title="MALAYALAM | ENTRTNMNT",MY: Harvest24x7
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/85917.ts
+#EXTINF:-1 tvg-id="jeevantv.in" tvg-name="MAL | JEEVAN TV ᴴᴰ" tvg-logo="https://static.epg.best/in/JeevanTV.in.png" group-title="MALAYALAM | NEWS",MAL | JEEVAN TV ᴴᴰ
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/85920.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY: DarshanaTV" tvg-logo="https://www.lyngsat.com/logo/tv/dd/darshana_tv_in.png" group-title="MALAYALAM | ENTRTNMNT",MY: DarshanaTV
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/85924.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY: AsianetMiddleEast" tvg-logo="https://www.lyngsat.com/logo/tv/aa/asianet_me.png" group-title="MALAYALAM | ENTRTNMNT",MY: AsianetMiddleEast
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/85926.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY: KairaliArabia" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kairali_in_arabia.png" group-title="MALAYALAM | ENTRTNMNT",MY: KairaliArabia
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/85928.ts
+#EXTINF:-1 tvg-id="kairalinews.in" tvg-name="MAL | KAIRALI NEWS" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Kairali-News.png" group-title="MALAYALAM | NEWS",MAL | KAIRALI NEWS
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/85929.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAL | MAGNAVISION TV HD" tvg-logo="https://magnavision.tv/wp-content/uploads/2018/04/MV-Logo-v77.jpg" group-title="MALAYALAM | MOVIES",MAL | MAGNAVISION TV HD
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/127305.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY: Pulari Tv HD" tvg-logo="https://pularitv.com/files/Pulari_icon_new-new_copy.png" group-title="MALAYALAM | ENTRTNMNT",MY: Pulari Tv HD
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/131454.ts
+#EXTINF:-1 tvg-id="ts553" tvg-name="MY: Kairali We" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kairali_in_we.png" group-title="MALAYALAM | ENTRTNMNT",MY: Kairali We
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/150128.ts
+#EXTINF:-1 tvg-id="asianetnews.in" tvg-name="MAL | ASIANET NEWS ᴴᴰ" tvg-logo="https://static.epg.best/in/AsianetNews.in.png" group-title="MALAYALAM | NEWS",MAL | ASIANET NEWS ᴴᴰ
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/166605.ts
+#EXTINF:-1 tvg-id="news24.in" tvg-name="MAL | NEWS 24 ᴴᴰ" tvg-logo="https://www.twentyfournews.com/wp-content/themes/nextline_v3/images/logo-new.png" group-title="MALAYALAM | NEWS",MAL | NEWS 24 ᴴᴰ
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/166612.ts
+#EXTINF:-1 tvg-id="ts1124" tvg-name="MAL | REPORTER NEWS ᴴᴰ" tvg-logo="https://i.pinimg.com/originals/2f/0f/f5/2f0ff5736ad449034604ab0bd1046222.png" group-title="MALAYALAM | NEWS",MAL | REPORTER NEWS ᴴᴰ
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/166615.ts
+#EXTINF:-1 tvg-id="manoramanews.in" tvg-name="MAL | MANORAMA NEWS ᴴᴰ" tvg-logo="https://static.epg.best/in/ManoramaNews.in.png" group-title="MALAYALAM | NEWS",MAL | MANORAMA NEWS ᴴᴰ
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/169776.ts
+#EXTINF:-1 tvg-id="mathrubhuminews.in" tvg-name="MAL | MATHRUBHUMI NEWS ᴴᴰ" tvg-logo="https://i.ibb.co/vhtyySx/download-7.png" group-title="MALAYALAM | NEWS",MAL | MATHRUBHUMI NEWS ᴴᴰ
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/169786.ts
+#EXTINF:-1 tvg-id="mediaone.in" tvg-name="MAL | MEDIA ONE ᴴᴰ" tvg-logo="https://static.epg.best/in/MediaOne.in.png" group-title="MALAYALAM | NEWS",MAL | MEDIA ONE ᴴᴰ
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/169796.ts
+#EXTINF:-1 tvg-id="kairalinews.in" tvg-name="MAL | KAIRALI NEWS ᴴᴰ" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Kairali-News.png" group-title="MALAYALAM | NEWS",MAL | KAIRALI NEWS ᴴᴰ
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/169797.ts
+#EXTINF:-1 tvg-id="jaihindtv.in" tvg-name="MAL | JAI HIND TV ᴴᴰ" tvg-logo="https://i.ibb.co/L61yfSs/Jaihind-TV-Logo.png" group-title="MALAYALAM | NEWS",MAL | JAI HIND TV ᴴᴰ
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/169798.ts
+#EXTINF:-1 tvg-id="janamtv.in" tvg-name="MAL | JANAM TV ᴴᴰ" tvg-logo="https://static.epg.best/in/JanamTV.in.png" group-title="MALAYALAM | NEWS",MAL | JANAM TV ᴴᴰ
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/169807.ts
+#EXTINF:-1 tvg-id="kaumudytv.in" tvg-name="MAL | KAUMUDY TV ᴴᴰ" tvg-logo="https://static.epg.best/in/KaumudyTV.in.png" group-title="MALAYALAM | MOVIES",MAL | KAUMUDY TV ᴴᴰ
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/169822.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="CRIC || PTV SPORTS ᴴᴰ" tvg-logo="http://greenpa1.com/ptvsporthd.png" group-title="CRICKET",CRIC || PTV SPORTS ᴴᴰ
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/89.ts
+#EXTINF:-1 tvg-id="" tvg-name="CRIC || TEN SPORTS ᴴᴰ" tvg-logo="https://www.tensports.com.pk/wp-content/uploads/2019/10/Logo.png" group-title="CRICKET",CRIC || TEN SPORTS ᴴᴰ
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/98.ts
+#EXTINF:-1 tvg-id="" tvg-name="CRIC || GEO SUPER ᴴᴰ" tvg-logo="http://greenpa1.com/geosuper.png" group-title="CRICKET",CRIC || GEO SUPER ᴴᴰ
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/101.ts
+#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="CRIC || SONY SPORTS 3 ᴴᴰ" tvg-logo="http://greenpa1.com/sonyten3.png" group-title="CRICKET",CRIC || SONY SPORTS 3 ᴴᴰ
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/146.ts
+#EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="CRIC || STAR SPORTS 1 ENG ᴴᴰ" tvg-logo="http://greenpa1.com/starsports1.png" group-title="CRICKET",CRIC || STAR SPORTS 1 ENG ᴴᴰ
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/148.ts
+#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="CRIC || SONY SPORTS 1 ᴴᴰ" tvg-logo="http://greenpa1.com/sonyten1.png" group-title="CRICKET",CRIC || SONY SPORTS 1 ᴴᴰ
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/154.ts
+#EXTINF:-1 tvg-id="sonyespnhd.in" tvg-name="CRI: SONY ESPN HD" tvg-logo="https://pluspng.com/img-png/sony-hd-png-http-www-indigital-co-in-upload-channellogo-channellogo-635901932420648964-png-sony-espn-hd-300.png" group-title="CRICKET",CRI: SONY ESPN HD
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/155.ts
+#EXTINF:-1 tvg-id="sonysixhd.in" tvg-name="CRIC || SONY SPORTS 5 ᴴᴰ" tvg-logo="https://i.ibb.co/3NGPRb1/Sony-Sports-Ten-5.png" group-title="CRICKET",CRIC || SONY SPORTS 5 ᴴᴰ
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/176.ts
+#EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-name="CRIC || STAR SPORTS 1 HINDI ᴴᴰ" tvg-logo="http://greenpa1.com/ssh1.png" group-title="CRICKET",CRIC || STAR SPORTS 1 HINDI ᴴᴰ
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/211.ts
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="CRIC || WILLOW SPORTS ᴴᴰ" tvg-logo="http://greenpa1.com/willow.png" group-title="CRICKET",CRIC || WILLOW SPORTS ᴴᴰ
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/215.ts
+#EXTINF:-1 tvg-id="dsport.in" tvg-name="CRIC || EUROSPORTS ᴴᴰ" tvg-logo="https://static.epg.best/no/Eurosport1.no.png" group-title="CRICKET",CRIC || EUROSPORTS ᴴᴰ
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/216.ts
+#EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="CRIC || STAR SPORTS SELECT 1 ᴴᴰ" tvg-logo="https://static.epg.best/in/StarSportsSelect1.in.png" group-title="CRICKET",CRIC || STAR SPORTS SELECT 1 ᴴᴰ
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/238.ts
+#EXTINF:-1 tvg-id="starsports2hd.in" tvg-name="CRIC || STAR SPORTS 2 ENGLISH ᴴᴰ" tvg-logo="http://greenpa1.com/starsports2.png" group-title="CRICKET",CRIC || STAR SPORTS 2 ENGLISH ᴴᴰ
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/239.ts
+#EXTINF:-1 tvg-id="" tvg-name="CRIC || RTA SPORTS ᴴᴰ" tvg-logo="http://greenpa1.com/rta.png" group-title="CRICKET",CRIC || RTA SPORTS ᴴᴰ
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/1039.ts
+#EXTINF:-1 tvg-id="starsports3.in" tvg-name="CRIC || STAR SPORTS 3 ᴴᴰ" tvg-logo="http://greenpa1.com/ss3.png" group-title="CRICKET",CRIC || STAR SPORTS 3 ᴴᴰ
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/1080.ts
+#EXTINF:-1 tvg-id="foxsports501hd.au" tvg-name="CRIC || FOX CRIC 501 ᴴᴰ" tvg-logo="http://greenpa1.com/fox.png" group-title="CRICKET",CRIC || FOX CRIC 501 ᴴᴰ
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/1856.ts
+#EXTINF:-1 tvg-id="" tvg-name="CRIC || ASTRO CRICKET ᴴᴰ" tvg-logo="http://greenpa1.com/astrocricket.png" group-title="CRICKET",CRIC || ASTRO CRICKET ᴴᴰ
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/2494.ts
+#EXTINF:-1 tvg-id="supersportcricket.za" tvg-name="CRIC || SUPERSPORTS ᴴᴰ" tvg-logo="http://greenpa1.com/ssc.png" group-title="CRICKET",CRIC || SUPERSPORTS ᴴᴰ
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/2496.ts
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="CRIC || WILLOW 2 ᴴᴰ" tvg-logo="http://greenpa1.com/willowxtra.png" group-title="CRICKET",CRIC || WILLOW 2 ᴴᴰ
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/5040.ts
+#EXTINF:-1 tvg-id="starsports1tamil.in" tvg-name="CRIC || STAR SPORTS 1 TAMIL ⁴ᵏ" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="CRICKET",CRIC || STAR SPORTS 1 TAMIL ⁴ᵏ
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/9722.ts
+#EXTINF:-1 tvg-id="" tvg-name="CRIC || T SPORTS ᴴᴰ" tvg-logo="https://i.ibb.co/34FSKYK/images.png" group-title="CRICKET",CRIC || T SPORTS ᴴᴰ
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/18452.ts
+#EXTINF:-1 tvg-id="shemaroo.in" tvg-name="CRIC || WILLOW SPORTS ᴴᴰ" tvg-logo="http://greenpa1.com/willow.png" group-title="CRICKET",CRIC || WILLOW SPORTS ᴴᴰ
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/23943.ts
+#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="CRIC || SONY SPORTS 2 ᴴᴰ" tvg-logo="http://greenpa1.com/sonyten2.png" group-title="CRICKET",CRIC || SONY SPORTS 2 ᴴᴰ
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/31314.ts
+#EXTINF:-1 tvg-id="" tvg-name="CRIC || A SPORTS ᴴᴰ" tvg-logo="https://i.ibb.co/R7Knx3z/unnamed.png" group-title="CRICKET",CRIC || A SPORTS ᴴᴰ
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/43444.ts
+#EXTINF:-1 tvg-id="" tvg-name="CRI: ATN Plus Cricket" tvg-logo="https://i.ibb.co/PtxbFbk/Cricket-Plus-tr.png" group-title="CRICKET",CRI: ATN Plus Cricket
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/85829.ts
+#EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="CRIC || STAR SPORTS SELECT 2 ᴴᴰ" tvg-logo="https://static.epg.best/in/StarSportsSelect2.in.png" group-title="CRICKET",CRIC || STAR SPORTS SELECT 2 ᴴᴰ
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/148801.ts
+#EXTINF:-1 tvg-id="" tvg-name="CRIC || SKY SPORT 1 ᶠᴴᴰ" tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_1_logo_stack_rgb.png" group-title="CRICKET",CRIC || SKY SPORT 1 ᶠᴴᴰ
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/150854.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="CRIC || STAR SPORTS 2 HINDI ᶠᴴᴰ" tvg-logo="http://greenpa1.com/ssh2.png" group-title="CRICKET",CRIC || STAR SPORTS 2 HINDI ᶠᴴᴰ
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/213049.ts
+
