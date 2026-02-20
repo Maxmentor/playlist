@@ -1,21 +1,58 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-name="Star Sports 1 HD" tvg-logo="https://i.postimg.cc/j2cn1VBx/IMG-20260215-024716.jpg" group-title="sports",Star Sports 1 HD
-http://edge.zerobuff.com/c444a5102cec0758c3703033a50c434ffeebd61d5b96fbe2aab810dbe7a6a2be3316a9adc0c163a660c9e9e64bdc4224f2f0379c58741913ad27f0ba7bca15fccf92c101c1284f477b43c3e214b878e3eeaef7dc4b05/index.m3u8
-#EXTINF:-1 tvg-id="Star Sports 1 Hindi HD" tvg-name="Star Sports 1 Hindi FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/SS1_Hindi_HD.JPG/revision/latest?cb=20240313194838" group-title="sports",Star Sports 1 Hindi FHD
-http://edge.zerobuff.com/c444a5102cec0758c3703132a40c434ffeebd61d5b96fbe2aab810dbe7a6a2be3316a9adc0c363a660c9e9e64bdc4224f2f0379c58741c4ea92ca2bb2eca13ff97c69603c07b14437612c1e347ed2fe3e3f8f78c4e02/index.m3u8
-#EXTINF:-1 tvg-id="Star Sports 2 HD" tvg-name="Star Sports 2 HD" tvg-logo="https://i.postimg.cc/Z5pvkyGN/Screenshot-2026-02-15-03-11-48-68-40deb401b9ffe8e1df2f1cc5ba480b12.jpg" group-title="sports",Star Sports 2 HD
-http://edge.zerobuff.com/c444a5102cec0758c3703036a40c434ffeebd61d5b96fbe2aab810dbe7a6a2be3316a9adc0c040a62ccbf7e454dd5d20e4ea3d825f38180bac79a1bf75ca1ba49995915790271d44224296ed16bb7ab2e5a5f1dc1f5338e1/index.m3u8
-#EXTINF:-1 tvg-id="Star Sports 1 Tamil HD" tvg-name="Star Sports 1 Tamil HD" tvg-logo="https://i.postimg.cc/rsjgNPJz/star-sports-launches-first-tamil-sports-channel.png" group-title="sports",Star Sports 1 Tamil HD
-http://edge.zerobuff.com/c444a5102cec0758c5783e32a00c434ffeebd61d5b96fbe2aa9830fbeb859d831531a5baf0b352de1c86f6e749c25d21faf03194433a1e40e27ef5b87d9a17fecac5ca04c1261b17771292e646ec71b1e6abaddb1a573db28e/index.m3u8
-#EXTINF:-1 tvg-id="Star Sports 2 Tamil HD" tvg-name="Star Sports 2 Tamil HD" tvg-logo="https://i.postimg.cc/T20cSBrZ/Screenshot-2026-02-15-02-59-02-17-40deb401b9ffe8e1df2f1cc5ba480b12.jpg" group-title="sports",Star Sports 2 Tamil HD
-http://185.6.12.59/c444a5102cec0758c5783e32a00c434ffeebd61d5b96fbe2aa9830fbeb859d831531a5baf0b352de1ca5f59f3e905d20f9f0349d5d26194fb02df3ee309043afcf92c350c77b19177345c0e44ded7bb0e0a4f3d9140169e48f73d97d5a/index.m3u8
-#EXTINF:-1 tvg-id="Star Sports 1 FHD" tvg-name="Star Sports 1 FHD" tvg-logo="https://i.postimg.cc/j2cn1VBx/IMG-20260215-024716.jpg" group-title="sports",Star Sports 1 FHD
-http://edge.zerobuff.com/c444a5102cec0758c3703033a50c434ffeebd61d5b96fbe2aab810dbe7a6a2be3316a9adc0c163a660c9e9e64bdc4224f2f0379c58741913ad27f0ba7bca15fccf92c101c1284f477b43c3e214b878e3eeaef7dc4b05/index.m3u8
-#EXTINF:-1 tvg-id="Willow HD" tvg-name="Willow HD" tvg-logo="https://i.postimg.cc/mrPq2BSd/images.png" group-title="sports",Willow HD
-http://edge.zerobuff.top/c444a5102cec0758c3703f3ba30c434ffeebd61d5b96fbe2bd8e3ef1eb81a4a02b0a81bae18a6be531a594a7159e1863b6ef359f43391c47b02bf8f77e9917e198c69001c6794917251290e040bc78b7e0acad851b063cb5de28d8705a4cd843/index.m3u8
-#EXTINF:-1 tvg-id="Willow Sports HD" tvg-name="Willow Sports HD" tvg-logo="https://i.postimg.cc/7h8jWd02/1292-200x200.png" group-title="sports",Willow Sports HD
-http://edge.zerobuff.top/c444a5102cec0758c3703f3ba30c434ffeebd61d5b96fbe2bd8e3ef1eb81a4a02b0a81bae18a6be531a594a7159e1863b6ef359f43391c47b02bf8f77e9917e198c69001c6794917251290e040bc78b7e0acad851b063cb5de28d8705a4cd843/index.m3u8
-#EXTINF:-1 tvg-id="PTV Sports HD" tvg-name="PTV Sports HD" tvg-logo="https://i.postimg.cc/hP7fxdPw/Screenshot-2026-02-15-03-13-44-14-40deb401b9ffe8e1df2f1cc5ba480b12.jpg" group-title="sports",PTV Sports HD
-http://edge.zerobuff.com/c444a5102cec0758c3703f31a40c434ffeebd61d5b96fbe2a99827fac4b9bfb83419c7d597dc2ea660d4f3ef54de5c25b6e73cc8543c4947af7da1e92d9f10adc8c2ca07907a191f7413c6e44dbc2cb7b1/index.m3u8
-#EXTINF:-1 tvg-id="GEO Super Sports HD" tvg-name="GEO Super Sports HD" tvg-logo="https://yt3.googleusercontent.com/PS74GxZJ690vehqUWjF3S6xC0p9hbaCbMxPgrQvUGzSEKk0Pkjawjn5gUdsWHXwld7BUxyiw=s900-c-k-c0x00ffffff-no-rj" group-title="sports",GEO Super Sports HD
-http://edge.zerobuff.com/c444a5102cec0758c3703e30a40c434ffeebd61d5b96fbe2bea91efac1a6a8be172ec4d0d8c32fa47ecbf6e754d8543ef8ee30d0596d1843a77ba4e878cd1baac8c3c20e972c4f142118c2b345ed2fe3eeabf688/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CRIC || PTV SPORTS ᴴᴰ" tvg-logo="http://greenpa1.com/ptvsporthd.png" group-title="CRICKET",CRIC || PTV SPORTS ᴴᴰ
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/89.ts
+#EXTINF:-1 tvg-id="" tvg-name="CRIC || TEN SPORTS ᴴᴰ" tvg-logo="https://www.tensports.com.pk/wp-content/uploads/2019/10/Logo.png" group-title="CRICKET",CRIC || TEN SPORTS ᴴᴰ
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/98.ts
+#EXTINF:-1 tvg-id="" tvg-name="CRIC || GEO SUPER ᴴᴰ" tvg-logo="http://greenpa1.com/geosuper.png" group-title="CRICKET",CRIC || GEO SUPER ᴴᴰ
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/101.ts
+#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="CRIC || SONY SPORTS 3 ᴴᴰ" tvg-logo="http://greenpa1.com/sonyten3.png" group-title="CRICKET",CRIC || SONY SPORTS 3 ᴴᴰ
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/146.ts
+#EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="CRIC || STAR SPORTS 1 ENG ᴴᴰ" tvg-logo="http://greenpa1.com/starsports1.png" group-title="CRICKET",CRIC || STAR SPORTS 1 ENG ᴴᴰ
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/148.ts
+#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="CRIC || SONY SPORTS 1 ᴴᴰ" tvg-logo="http://greenpa1.com/sonyten1.png" group-title="CRICKET",CRIC || SONY SPORTS 1 ᴴᴰ
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/154.ts
+#EXTINF:-1 tvg-id="sonyespnhd.in" tvg-name="CRI: SONY ESPN HD" tvg-logo="https://pluspng.com/img-png/sony-hd-png-http-www-indigital-co-in-upload-channellogo-channellogo-635901932420648964-png-sony-espn-hd-300.png" group-title="CRICKET",CRI: SONY ESPN HD
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/155.ts
+#EXTINF:-1 tvg-id="sonysixhd.in" tvg-name="CRIC || SONY SPORTS 5 ᴴᴰ" tvg-logo="https://i.ibb.co/3NGPRb1/Sony-Sports-Ten-5.png" group-title="CRICKET",CRIC || SONY SPORTS 5 ᴴᴰ
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/176.ts
+#EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-name="CRIC || STAR SPORTS 1 HINDI ᴴᴰ" tvg-logo="http://greenpa1.com/ssh1.png" group-title="CRICKET",CRIC || STAR SPORTS 1 HINDI ᴴᴰ
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/211.ts
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="CRIC || WILLOW SPORTS ᴴᴰ" tvg-logo="http://greenpa1.com/willow.png" group-title="CRICKET",CRIC || WILLOW SPORTS ᴴᴰ
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/215.ts
+#EXTINF:-1 tvg-id="dsport.in" tvg-name="CRIC || EUROSPORTS ᴴᴰ" tvg-logo="https://static.epg.best/no/Eurosport1.no.png" group-title="CRICKET",CRIC || EUROSPORTS ᴴᴰ
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/216.ts
+#EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="CRIC || STAR SPORTS SELECT 1 ᴴᴰ" tvg-logo="https://static.epg.best/in/StarSportsSelect1.in.png" group-title="CRICKET",CRIC || STAR SPORTS SELECT 1 ᴴᴰ
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/238.ts
+#EXTINF:-1 tvg-id="starsports2hd.in" tvg-name="CRIC || STAR SPORTS 2 ENGLISH ᴴᴰ" tvg-logo="http://greenpa1.com/starsports2.png" group-title="CRICKET",CRIC || STAR SPORTS 2 ENGLISH ᴴᴰ
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/239.ts
+#EXTINF:-1 tvg-id="" tvg-name="CRIC || RTA SPORTS ᴴᴰ" tvg-logo="http://greenpa1.com/rta.png" group-title="CRICKET",CRIC || RTA SPORTS ᴴᴰ
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/1039.ts
+#EXTINF:-1 tvg-id="starsports3.in" tvg-name="CRIC || STAR SPORTS 3 ᴴᴰ" tvg-logo="http://greenpa1.com/ss3.png" group-title="CRICKET",CRIC || STAR SPORTS 3 ᴴᴰ
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/1080.ts
+#EXTINF:-1 tvg-id="foxsports501hd.au" tvg-name="CRIC || FOX CRIC 501 ᴴᴰ" tvg-logo="http://greenpa1.com/fox.png" group-title="CRICKET",CRIC || FOX CRIC 501 ᴴᴰ
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/1856.ts
+#EXTINF:-1 tvg-id="" tvg-name="CRIC || ASTRO CRICKET ᴴᴰ" tvg-logo="http://greenpa1.com/astrocricket.png" group-title="CRICKET",CRIC || ASTRO CRICKET ᴴᴰ
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/2494.ts
+#EXTINF:-1 tvg-id="supersportcricket.za" tvg-name="CRIC || SUPERSPORTS ᴴᴰ" tvg-logo="http://greenpa1.com/ssc.png" group-title="CRICKET",CRIC || SUPERSPORTS ᴴᴰ
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/2496.ts
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="CRIC || WILLOW 2 ᴴᴰ" tvg-logo="http://greenpa1.com/willowxtra.png" group-title="CRICKET",CRIC || WILLOW 2 ᴴᴰ
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/5040.ts
+#EXTINF:-1 tvg-id="starsports1tamil.in" tvg-name="CRIC || STAR SPORTS 1 TAMIL ⁴ᵏ" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="CRICKET",CRIC || STAR SPORTS 1 TAMIL ⁴ᵏ
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/9722.ts
+#EXTINF:-1 tvg-id="" tvg-name="CRIC || T SPORTS ᴴᴰ" tvg-logo="https://i.ibb.co/34FSKYK/images.png" group-title="CRICKET",CRIC || T SPORTS ᴴᴰ
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/18452.ts
+#EXTINF:-1 tvg-id="shemaroo.in" tvg-name="CRIC || WILLOW SPORTS ᴴᴰ" tvg-logo="http://greenpa1.com/willow.png" group-title="CRICKET",CRIC || WILLOW SPORTS ᴴᴰ
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/23943.ts
+#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="CRIC || SONY SPORTS 2 ᴴᴰ" tvg-logo="http://greenpa1.com/sonyten2.png" group-title="CRICKET",CRIC || SONY SPORTS 2 ᴴᴰ
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/31314.ts
+#EXTINF:-1 tvg-id="" tvg-name="CRIC || A SPORTS ᴴᴰ" tvg-logo="https://i.ibb.co/R7Knx3z/unnamed.png" group-title="CRICKET",CRIC || A SPORTS ᴴᴰ
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/43444.ts
+#EXTINF:-1 tvg-id="" tvg-name="CRI: ATN Plus Cricket" tvg-logo="https://i.ibb.co/PtxbFbk/Cricket-Plus-tr.png" group-title="CRICKET",CRI: ATN Plus Cricket
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/85829.ts
+#EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="CRIC || STAR SPORTS SELECT 2 ᴴᴰ" tvg-logo="https://static.epg.best/in/StarSportsSelect2.in.png" group-title="CRICKET",CRIC || STAR SPORTS SELECT 2 ᴴᴰ
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/148801.ts
+#EXTINF:-1 tvg-id="" tvg-name="CRIC || SKY SPORT 1 ᶠᴴᴰ" tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_1_logo_stack_rgb.png" group-title="CRICKET",CRIC || SKY SPORT 1 ᶠᴴᴰ
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/150854.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="CRIC || STAR SPORTS 2 HINDI ᶠᴴᴰ" tvg-logo="http://greenpa1.com/ssh2.png" group-title="CRICKET",CRIC || STAR SPORTS 2 HINDI ᶠᴴᴰ
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/213049.ts
