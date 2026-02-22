@@ -1,58 +1,20 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="CRIC || PTV SPORTS ᴴᴰ" tvg-logo="http://greenpa1.com/ptvsporthd.png" group-title="CRICKET",CRIC || PTV SPORTS ᴴᴰ
-https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/89.ts
-#EXTINF:-1 tvg-id="" tvg-name="CRIC || TEN SPORTS ᴴᴰ" tvg-logo="https://www.tensports.com.pk/wp-content/uploads/2019/10/Logo.png" group-title="CRICKET",CRIC || TEN SPORTS ᴴᴰ
-https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/98.ts
-#EXTINF:-1 tvg-id="" tvg-name="CRIC || GEO SUPER ᴴᴰ" tvg-logo="http://greenpa1.com/geosuper.png" group-title="CRICKET",CRIC || GEO SUPER ᴴᴰ
-https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/101.ts
-#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="CRIC || SONY SPORTS 3 ᴴᴰ" tvg-logo="http://greenpa1.com/sonyten3.png" group-title="CRICKET",CRIC || SONY SPORTS 3 ᴴᴰ
-https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/146.ts
-#EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="CRIC || STAR SPORTS 1 ENG ᴴᴰ" tvg-logo="http://greenpa1.com/starsports1.png" group-title="CRICKET",CRIC || STAR SPORTS 1 ENG ᴴᴰ
-https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/148.ts
-#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="CRIC || SONY SPORTS 1 ᴴᴰ" tvg-logo="http://greenpa1.com/sonyten1.png" group-title="CRICKET",CRIC || SONY SPORTS 1 ᴴᴰ
-https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/154.ts
-#EXTINF:-1 tvg-id="sonyespnhd.in" tvg-name="CRI: SONY ESPN HD" tvg-logo="https://pluspng.com/img-png/sony-hd-png-http-www-indigital-co-in-upload-channellogo-channellogo-635901932420648964-png-sony-espn-hd-300.png" group-title="CRICKET",CRI: SONY ESPN HD
-https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/155.ts
-#EXTINF:-1 tvg-id="sonysixhd.in" tvg-name="CRIC || SONY SPORTS 5 ᴴᴰ" tvg-logo="https://i.ibb.co/3NGPRb1/Sony-Sports-Ten-5.png" group-title="CRICKET",CRIC || SONY SPORTS 5 ᴴᴰ
-https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/176.ts
-#EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-name="CRIC || STAR SPORTS 1 HINDI ᴴᴰ" tvg-logo="http://greenpa1.com/ssh1.png" group-title="CRICKET",CRIC || STAR SPORTS 1 HINDI ᴴᴰ
-https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/211.ts
-#EXTINF:-1 tvg-id="92news.uk" tvg-name="CRIC || WILLOW SPORTS ᴴᴰ" tvg-logo="http://greenpa1.com/willow.png" group-title="CRICKET",CRIC || WILLOW SPORTS ᴴᴰ
-https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/215.ts
-#EXTINF:-1 tvg-id="dsport.in" tvg-name="CRIC || EUROSPORTS ᴴᴰ" tvg-logo="https://static.epg.best/no/Eurosport1.no.png" group-title="CRICKET",CRIC || EUROSPORTS ᴴᴰ
-https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/216.ts
-#EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="CRIC || STAR SPORTS SELECT 1 ᴴᴰ" tvg-logo="https://static.epg.best/in/StarSportsSelect1.in.png" group-title="CRICKET",CRIC || STAR SPORTS SELECT 1 ᴴᴰ
-https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/238.ts
-#EXTINF:-1 tvg-id="starsports2hd.in" tvg-name="CRIC || STAR SPORTS 2 ENGLISH ᴴᴰ" tvg-logo="http://greenpa1.com/starsports2.png" group-title="CRICKET",CRIC || STAR SPORTS 2 ENGLISH ᴴᴰ
-https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/239.ts
-#EXTINF:-1 tvg-id="" tvg-name="CRIC || RTA SPORTS ᴴᴰ" tvg-logo="http://greenpa1.com/rta.png" group-title="CRICKET",CRIC || RTA SPORTS ᴴᴰ
-https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/1039.ts
-#EXTINF:-1 tvg-id="starsports3.in" tvg-name="CRIC || STAR SPORTS 3 ᴴᴰ" tvg-logo="http://greenpa1.com/ss3.png" group-title="CRICKET",CRIC || STAR SPORTS 3 ᴴᴰ
-https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/1080.ts
-#EXTINF:-1 tvg-id="foxsports501hd.au" tvg-name="CRIC || FOX CRIC 501 ᴴᴰ" tvg-logo="http://greenpa1.com/fox.png" group-title="CRICKET",CRIC || FOX CRIC 501 ᴴᴰ
-https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/1856.ts
-#EXTINF:-1 tvg-id="" tvg-name="CRIC || ASTRO CRICKET ᴴᴰ" tvg-logo="http://greenpa1.com/astrocricket.png" group-title="CRICKET",CRIC || ASTRO CRICKET ᴴᴰ
-https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/2494.ts
-#EXTINF:-1 tvg-id="supersportcricket.za" tvg-name="CRIC || SUPERSPORTS ᴴᴰ" tvg-logo="http://greenpa1.com/ssc.png" group-title="CRICKET",CRIC || SUPERSPORTS ᴴᴰ
-https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/2496.ts
-#EXTINF:-1 tvg-id="92news.uk" tvg-name="CRIC || WILLOW 2 ᴴᴰ" tvg-logo="http://greenpa1.com/willowxtra.png" group-title="CRICKET",CRIC || WILLOW 2 ᴴᴰ
-https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/5040.ts
-#EXTINF:-1 tvg-id="starsports1tamil.in" tvg-name="CRIC || STAR SPORTS 1 TAMIL ⁴ᵏ" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="CRICKET",CRIC || STAR SPORTS 1 TAMIL ⁴ᵏ
-https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/9722.ts
-#EXTINF:-1 tvg-id="" tvg-name="CRIC || T SPORTS ᴴᴰ" tvg-logo="https://i.ibb.co/34FSKYK/images.png" group-title="CRICKET",CRIC || T SPORTS ᴴᴰ
-https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/18452.ts
-#EXTINF:-1 tvg-id="shemaroo.in" tvg-name="CRIC || WILLOW SPORTS ᴴᴰ" tvg-logo="http://greenpa1.com/willow.png" group-title="CRICKET",CRIC || WILLOW SPORTS ᴴᴰ
-https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/23943.ts
-#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="CRIC || SONY SPORTS 2 ᴴᴰ" tvg-logo="http://greenpa1.com/sonyten2.png" group-title="CRICKET",CRIC || SONY SPORTS 2 ᴴᴰ
-https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/31314.ts
-#EXTINF:-1 tvg-id="" tvg-name="CRIC || A SPORTS ᴴᴰ" tvg-logo="https://i.ibb.co/R7Knx3z/unnamed.png" group-title="CRICKET",CRIC || A SPORTS ᴴᴰ
-https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/43444.ts
-#EXTINF:-1 tvg-id="" tvg-name="CRI: ATN Plus Cricket" tvg-logo="https://i.ibb.co/PtxbFbk/Cricket-Plus-tr.png" group-title="CRICKET",CRI: ATN Plus Cricket
-https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/85829.ts
-#EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="CRIC || STAR SPORTS SELECT 2 ᴴᴰ" tvg-logo="https://static.epg.best/in/StarSportsSelect2.in.png" group-title="CRICKET",CRIC || STAR SPORTS SELECT 2 ᴴᴰ
-https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/148801.ts
-#EXTINF:-1 tvg-id="" tvg-name="CRIC || SKY SPORT 1 ᶠᴴᴰ" tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_1_logo_stack_rgb.png" group-title="CRICKET",CRIC || SKY SPORT 1 ᶠᴴᴰ
-https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/150854.ts
-#EXTINF:-1 tvg-id="sports18.in" tvg-name="CRIC || STAR SPORTS 2 HINDI ᶠᴴᴰ" tvg-logo="http://greenpa1.com/ssh2.png" group-title="CRICKET",CRIC || STAR SPORTS 2 HINDI ᶠᴴᴰ
-https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/213049.ts
+#EXTINF:-1 tvg-id="" tvg-name="LA: STAR SPORTS 1" tvg-logo="https://docdog.top/logo/countries/latino/starsports1.png" group-title="LAME | LATINO VIP",LA: STAR SPORTS 1
+http://vipqutnnapi.top:8080/VIP01571708409037004/adaac3364e63/4944
+#EXTINF:-1 tvg-id="" tvg-name="LA: STAR SPORTS" tvg-logo="https://docdog.top/logo/countries/latino/starsports.png" group-title="LAME | LATINO VIP",LA: STAR SPORTS
+http://vipqutnnapi.top:8080/VIP01571708409037004/adaac3364e63/4945
+#EXTINF:-1 tvg-id="" tvg-name="LA: TIGO SPORT CR 1" tvg-logo="https://docdog.top/logo/countries/latino/tigosports1.png" group-title="LAME | LATINO VIP",LA: TIGO SPORT CR 1
+http://vipqutnnapi.top:8080/VIP01571708409037004/adaac3364e63/4946
+#EXTINF:-1 tvg-id="" tvg-name="LA: EC_DIRECTV SPORT" tvg-logo="https://docdog.top/logo/countries/latino/EC_DIRECTVSPORT.png" group-title="LAME | LATINO VIP",LA: EC_DIRECTV SPORT
+http://vipqutnnapi.top:8080/VIP01571708409037004/adaac3364e63/4947
+#EXTINF:-1 tvg-id="" tvg-name="LA: STAR SPORT2 CHILE" tvg-logo="https://docdog.top/logo/countries/latino/STARSPORT2CHILE.png" group-title="LAME | LATINO VIP",LA: STAR SPORT2 CHILE
+http://vipqutnnapi.top:8080/VIP01571708409037004/adaac3364e63/4948
+#EXTINF:-1 tvg-id="" tvg-name="LA: DIRECT SPORTS+" tvg-logo="https://docdog.top/logo/countries/latino/DIRECTSPORTS+.png" group-title="LAME | LATINO VIP",LA: DIRECT SPORTS+
+http://vipqutnnapi.top:8080/VIP01571708409037004/adaac3364e63/4949
+#EXTINF:-1 tvg-id="" tvg-name="LA: TNT SPORTS (ARG)" tvg-logo="https://docdog.top/logo/countries/latino/TNTSPORTS.png" group-title="LAME | LATINO VIP",LA: TNT SPORTS (ARG)
+http://vipqutnnapi.top:8080/VIP01571708409037004/adaac3364e63/4950
+#EXTINF:-1 tvg-id="" tvg-name="LA: STAR SPORTS 3" tvg-logo="https://docdog.top/logo/countries/latino/starsports3.png" group-title="LAME | LATINO VIP",LA: STAR SPORTS 3
+http://vipqutnnapi.top:8080/VIP01571708409037004/adaac3364e63/4951
+#EXTINF:-1 tvg-id="" tvg-name="LA: STAR SPORTS 2" tvg-logo="https://docdog.top/logo/countries/latino/starsports2.png" group-title="LAME | LATINO VIP",LA: STAR SPORTS 2
+http://vipqutnnapi.top:8080/VIP01571708409037004/adaac3364e63/4952
