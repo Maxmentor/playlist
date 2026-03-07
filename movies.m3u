@@ -1,6 +1,14 @@
 #EXTM3U
 
 
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://image.tmdb.org/t/p/w400/sPec0E9uLvgwiQKX8gt8cFHJopC.jpg",Murderer Report (2025)
+https://pixeldrain.dev/api/file/oBzVjETA
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://image.tmdb.org/t/p/w400/zjgWWOIsEqYNSa1fGRr82mBo3gv.jpg",Rahu Ketu (2026)
+https://pixeldrain.dev/api/file/Cb3CvH64
+
+
 #EXTINF:-1 group-title="Movies" tvg-logo="https://image.tmdb.org/t/p/w400/8pbLJBn78WoxsOi8WXbHTTHOx5o.jpg",Thaanara (2024)
 https://pixeldrain.dev/api/file/JLpDtsqf
 
@@ -355,8 +363,6 @@ https://pixeldrain.dev/api/file/L66uEfct
 #EXTINF:-1 group-title="Movies" tvg-logo="https://image.tmdb.org/t/p/w400/6ZVoH0I3nU0Yoqi8hbCQAXQobvU.jpg",Dilli Dark
 https://pixeldrain.dev/api/file/PqE8U39E
 
-#EXTINF:-1 group-title="Movies" tvg-logo="https://image.tmdb.org/t/p/w400/zjgWWOIsEqYNSa1fGRr82mBo3gv.jpg",Rahu Ketu
-https://pixeldrain.dev/api/file/GaVUSPRe
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://image.tmdb.org/t/p/w400/nFwtiL6qafMhn0oGkTYZQNP0WxG.jpg",Happy Patel: Khatarnak Jasoos HDTS
 https://pixeldrain.dev/api/file/N2evr4w5
