@@ -1,6 +1,13 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-id="Alienoid (2022)" tvg-name="Alienoid (2022)" tvg-logo="https://image.tmdb.org/t/p/w400/8QVDXDiOGHRcAD4oM6MXjE0osSj.jpg" group-title="Movies",Alienoid (2022)
+https://pixeldrain.dev/api/file/pkHteRUu
+
+
+#EXTINF:-1 tvg-id="Alienoid: Return to the Future (2024)" tvg-name="Alienoid: Return to the Future (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/4RClncz0GTKPZzSAcAalHCw0h3g.jpg" group-title="Movies",Alienoid: Return to the Future (2024)
+https://pixeldrain.dev/api/file/XUcLANJT
+
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://catimages.org/images/2025/03/29/The.Hobbit.1.2012.jpg",The Hobbit An Unexpected Journey (2012)
 https://pixeldrain.dev/api/file/rWNmsPAt
